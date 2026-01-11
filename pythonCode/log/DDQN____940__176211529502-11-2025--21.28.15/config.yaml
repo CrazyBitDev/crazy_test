@@ -1,0 +1,31 @@
+!!python/object:argparse.Namespace
+activation: relu
+alg: DDQN
+batch_size: 256
+cuda: '-1'
+eps: 1.0
+eps_decay: 0.995
+eps_min: 0.05
+gamma: 0.99
+last_n: 100
+layer_size: 64
+lr: 0.0003
+memory_size: 20000
+metrics:
+- Episode
+- Step
+- Avg_Success
+- Avg_Reward
+- Avg_Cost
+n_episode: 2000
+n_epochs: 10
+n_layers: 2
+seed: 940
+tag: ''
+tau: 0.005
+wandb_code: true
+wandb_entity: matteoingusci01
+wandb_log: false
+wandb_mode: online
+wandb_notes: ''
+wandb_project_name: ROBXAI_Exam

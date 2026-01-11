@@ -1,0 +1,6 @@
+pythonCode_backup/
+wandb/
+**/__pycache__/
+**/*.pyc
+**/.vscode/
+BoatSimulator/

@@ -1,0 +1,7 @@
+BoatSimulator_*.zip
+runs/
+wandb/
+models/
+model_testing/
+logs_best_model/
+logs_best_model_backup/

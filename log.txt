@@ -1,0 +1,1138 @@
+(DDQN) Ep:     0 reward:  -115.54 (last_100:  -115.54) step: 111 (step_last_100 111) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     1 reward:  -210.50 (last_100:  -163.02) step: 207 (step_last_100 159) eps: 1.00 success_last_100    0%  Termination reason: Not moving
+(DDQN) Ep:     2 reward:   -67.93 (last_100:  -131.32) step:  47 (step_last_100 121) eps: 1.00 success_last_100    0%  Termination reason: Not moving
+(DDQN) Ep:     3 reward:  -193.73 (last_100:  -146.92) step: 234 (step_last_100 149) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     4 reward:  -218.32 (last_100:  -161.20) step: 235 (step_last_100 166) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     5 reward:  -155.30 (last_100:  -160.22) step: 180 (step_last_100 169) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     6 reward:  -376.90 (last_100:  -191.17) step: 418 (step_last_100 204) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     7 reward:  -103.17 (last_100:  -180.17) step:  95 (step_last_100 190) eps: 1.00 success_last_100    0%  Termination reason: Out of bounds
+(DDQN) Ep:     8 reward:    -8.96 (last_100:  -161.15) step: 107 (step_last_100 181) eps: 1.00 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:     9 reward:  -284.02 (last_100:  -173.44) step: 312 (step_last_100 194) eps: 1.00 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    10 reward:   -91.98 (last_100:  -166.03) step: 192 (step_last_100 194) eps: 0.99 success_last_100   18%  Termination reason: Goal reached
+(DDQN) Ep:    11 reward:  -252.03 (last_100:  -173.20) step: 302 (step_last_100 203) eps: 0.99 success_last_100   16%  Termination reason: Out of bounds
+(DDQN) Ep:    12 reward:  -108.40 (last_100:  -168.21) step: 219 (step_last_100 204) eps: 0.99 success_last_100   23%  Termination reason: Goal reached
+(DDQN) Ep:    13 reward:  -180.75 (last_100:  -169.11) step: 183 (step_last_100 203) eps: 0.99 success_last_100   21%  Termination reason: Out of bounds
+(DDQN) Ep:    14 reward:  -467.37 (last_100:  -188.99) step: 500 (step_last_100 222) eps: 0.99 success_last_100   20%  Termination reason: Time out
+(DDQN) Ep:    15 reward:  -169.20 (last_100:  -187.76) step: 202 (step_last_100 221) eps: 0.99 success_last_100   18%  Termination reason: Out of bounds
+(DDQN) Ep:    16 reward:  -394.57 (last_100:  -199.92) step: 436 (step_last_100 234) eps: 0.99 success_last_100   17%  Termination reason: Out of bounds
+(DDQN) Ep:    17 reward:  -337.69 (last_100:  -207.58) step: 351 (step_last_100 240) eps: 0.99 success_last_100   16%  Termination reason: Not moving
+(DDQN) Ep:    18 reward:    57.75 (last_100:  -193.61) step:  56 (step_last_100 230) eps: 0.99 success_last_100   21%  Termination reason: Goal reached
+(DDQN) Ep:    19 reward:  -183.10 (last_100:  -193.09) step: 190 (step_last_100 228) eps: 0.99 success_last_100   20%  Termination reason: Out of bounds
+(DDQN) Ep:    20 reward:  -217.48 (last_100:  -194.25) step: 209 (step_last_100 227) eps: 0.99 success_last_100   19%  Termination reason: Out of bounds
+(DDQN) Ep:    21 reward:   -42.10 (last_100:  -187.33) step:  18 (step_last_100 218) eps: 0.99 success_last_100   18%  Termination reason: Not moving
+(DDQN) Ep:    22 reward:  -106.41 (last_100:  -183.81) step: 117 (step_last_100 213) eps: 0.99 success_last_100   17%  Termination reason: Out of bounds
+(DDQN) Ep:    23 reward:  -177.85 (last_100:  -183.56) step: 185 (step_last_100 212) eps: 0.99 success_last_100   16%  Termination reason: Out of bounds
+(DDQN) Ep:    24 reward:  -184.96 (last_100:  -183.62) step: 176 (step_last_100 211) eps: 0.99 success_last_100   16%  Termination reason: Out of bounds
+(DDQN) Ep:    25 reward:  -243.40 (last_100:  -185.92) step: 271 (step_last_100 213) eps: 0.99 success_last_100   15%  Termination reason: Out of bounds
+(DDQN) Ep:    26 reward:  -119.64 (last_100:  -183.46) step: 133 (step_last_100 210) eps: 0.99 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:    27 reward:  -274.32 (last_100:  -186.71) step: 286 (step_last_100 213) eps: 0.99 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:    28 reward:  -127.55 (last_100:  -184.67) step: 142 (step_last_100 210) eps: 0.99 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:    29 reward:  -121.37 (last_100:  -182.56) step: 113 (step_last_100 207) eps: 0.99 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:    30 reward:  -241.65 (last_100:  -184.47) step: 262 (step_last_100 209) eps: 0.98 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:    31 reward:  -104.68 (last_100:  -181.97) step: 103 (step_last_100 206) eps: 0.98 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:    32 reward:  -117.67 (last_100:  -180.02) step: 123 (step_last_100 203) eps: 0.98 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:    33 reward:  -120.10 (last_100:  -178.26) step: 129 (step_last_100 201) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    34 reward:  -229.69 (last_100:  -179.73) step: 269 (step_last_100 203) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    35 reward:  -210.31 (last_100:  -180.58) step: 239 (step_last_100 204) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    36 reward:  -273.39 (last_100:  -183.09) step: 282 (step_last_100 206) eps: 0.98 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:    37 reward:  -310.47 (last_100:  -186.44) step: 327 (step_last_100 209) eps: 0.98 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:    38 reward:  -183.62 (last_100:  -186.37) step: 185 (step_last_100 208) eps: 0.98 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    39 reward:  -129.89 (last_100:  -184.96) step: 120 (step_last_100 206) eps: 0.98 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    40 reward:  -131.76 (last_100:  -183.66) step: 157 (step_last_100 205) eps: 0.98 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    41 reward:    58.10 (last_100:  -177.90) step:  66 (step_last_100 202) eps: 0.98 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:    42 reward:  -199.09 (last_100:  -178.40) step: 218 (step_last_100 202) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    43 reward:  -210.88 (last_100:  -179.13) step: 223 (step_last_100 202) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    44 reward:  -383.56 (last_100:  -183.68) step: 381 (step_last_100 206) eps: 0.98 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    45 reward:  -105.22 (last_100:  -181.97) step:  57 (step_last_100 203) eps: 0.98 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:    46 reward:  -193.41 (last_100:  -182.21) step: 206 (step_last_100 203) eps: 0.98 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    47 reward:  -168.09 (last_100:  -181.92) step: 158 (step_last_100 202) eps: 0.98 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    48 reward:  -155.40 (last_100:  -181.38) step: 198 (step_last_100 202) eps: 0.98 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    49 reward:  -104.03 (last_100:  -179.83) step:  53 (step_last_100 199) eps: 0.98 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:    50 reward:    16.00 (last_100:  -175.99) step:  83 (step_last_100 197) eps: 0.97 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:    51 reward:  -280.75 (last_100:  -178.01) step: 296 (step_last_100 199) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    52 reward:  -136.49 (last_100:  -177.22) step: 132 (step_last_100 198) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    53 reward:  -351.07 (last_100:  -180.44) step: 376 (step_last_100 201) eps: 0.97 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:    54 reward:  -158.63 (last_100:  -180.05) step: 171 (step_last_100 200) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    55 reward:  -106.63 (last_100:  -178.74) step: 108 (step_last_100 199) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    56 reward:  -160.62 (last_100:  -178.42) step: 149 (step_last_100 198) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    57 reward:    57.79 (last_100:  -174.34) step:  53 (step_last_100 195) eps: 0.97 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:    58 reward:  -150.32 (last_100:  -173.94) step: 177 (step_last_100 195) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    59 reward:  -142.23 (last_100:  -173.41) step: 160 (step_last_100 194) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    60 reward:  -383.83 (last_100:  -176.86) step: 370 (step_last_100 197) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    61 reward:  -405.76 (last_100:  -180.55) step: 426 (step_last_100 201) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    62 reward:  -140.74 (last_100:  -179.92) step: 170 (step_last_100 200) eps: 0.97 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:    63 reward:  -336.26 (last_100:  -182.36) step: 370 (step_last_100 203) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    64 reward:  -147.62 (last_100:  -181.83) step: 158 (step_last_100 202) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    65 reward:   -99.61 (last_100:  -180.58) step:  97 (step_last_100 201) eps: 0.97 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:    66 reward:  -304.50 (last_100:  -182.43) step: 325 (step_last_100 203) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    67 reward:  -117.97 (last_100:  -181.48) step: 115 (step_last_100 201) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    68 reward:  -126.09 (last_100:  -180.68) step: 121 (step_last_100 200) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    69 reward:  -134.59 (last_100:  -180.02) step: 135 (step_last_100 199) eps: 0.97 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:    70 reward:  -117.58 (last_100:  -179.14) step: 131 (step_last_100 198) eps: 0.97 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    71 reward:  -120.63 (last_100:  -178.33) step: 115 (step_last_100 197) eps: 0.96 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    72 reward:  -212.29 (last_100:  -178.79) step: 229 (step_last_100 197) eps: 0.96 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    73 reward:  -134.11 (last_100:  -178.19) step: 155 (step_last_100 197) eps: 0.96 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    74 reward:  -137.95 (last_100:  -177.65) step: 146 (step_last_100 196) eps: 0.96 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    75 reward:  -138.15 (last_100:  -177.13) step:  88 (step_last_100 195) eps: 0.96 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:    76 reward:  -163.59 (last_100:  -176.96) step: 162 (step_last_100 194) eps: 0.96 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:    77 reward:  -452.47 (last_100:  -180.49) step: 472 (step_last_100 198) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    78 reward:  -193.90 (last_100:  -180.66) step: 186 (step_last_100 198) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    79 reward:  -103.30 (last_100:  -179.69) step: 116 (step_last_100 197) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    80 reward:  -245.35 (last_100:  -180.50) step: 268 (step_last_100 198) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    81 reward:  -119.04 (last_100:  -179.75) step: 125 (step_last_100 197) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    82 reward:  -117.26 (last_100:  -179.00) step: 125 (step_last_100 196) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    83 reward:   -97.92 (last_100:  -178.04) step:  93 (step_last_100 195) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    84 reward:  -155.37 (last_100:  -177.77) step: 181 (step_last_100 194) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    85 reward:  -121.57 (last_100:  -177.12) step: 127 (step_last_100 194) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    86 reward:  -247.61 (last_100:  -177.93) step: 266 (step_last_100 194) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    87 reward:  -201.33 (last_100:  -178.19) step: 335 (step_last_100 196) eps: 0.96 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:    88 reward:  -196.19 (last_100:  -178.39) step: 259 (step_last_100 197) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    89 reward:  -139.97 (last_100:  -177.97) step: 159 (step_last_100 196) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    90 reward:   -80.68 (last_100:  -176.90) step:  58 (step_last_100 195) eps: 0.96 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:    91 reward:  -390.87 (last_100:  -179.22) step: 410 (step_last_100 197) eps: 0.96 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    92 reward:  -390.23 (last_100:  -181.49) step: 464 (step_last_100 200) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    93 reward:  -248.95 (last_100:  -182.21) step: 243 (step_last_100 200) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    94 reward:  -153.96 (last_100:  -181.91) step: 181 (step_last_100 200) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    95 reward:  -286.83 (last_100:  -183.01) step: 313 (step_last_100 201) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    96 reward:  -112.24 (last_100:  -182.28) step: 127 (step_last_100 201) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    97 reward:  -324.10 (last_100:  -183.72) step: 360 (step_last_100 202) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    98 reward:  -169.40 (last_100:  -183.58) step: 199 (step_last_100 202) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:    99 reward:    23.86 (last_100:  -181.50) step:  91 (step_last_100 201) eps: 0.95 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   100 reward:  -108.07 (last_100:  -181.43) step: 139 (step_last_100 201) eps: 0.95 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   101 reward:   -73.14 (last_100:  -180.06) step:  53 (step_last_100 200) eps: 0.95 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   102 reward:  -428.41 (last_100:  -183.66) step: 500 (step_last_100 204) eps: 0.95 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   103 reward:  -200.86 (last_100:  -183.73) step: 228 (step_last_100 204) eps: 0.95 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   104 reward:  -105.52 (last_100:  -182.60) step: 125 (step_last_100 203) eps: 0.95 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   105 reward:  -414.14 (last_100:  -185.19) step: 500 (step_last_100 206) eps: 0.95 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   106 reward:  -201.46 (last_100:  -183.44) step: 189 (step_last_100 204) eps: 0.95 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   107 reward:  -138.40 (last_100:  -183.79) step: 155 (step_last_100 205) eps: 0.95 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   108 reward:  -245.01 (last_100:  -186.15) step: 262 (step_last_100 206) eps: 0.95 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   109 reward:  -154.94 (last_100:  -184.86) step: 168 (step_last_100 205) eps: 0.95 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   110 reward:  -151.04 (last_100:  -185.45) step: 165 (step_last_100 205) eps: 0.95 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   111 reward:  -178.62 (last_100:  -184.72) step: 183 (step_last_100 203) eps: 0.95 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   112 reward:  -394.12 (last_100:  -187.57) step: 491 (step_last_100 206) eps: 0.95 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   113 reward:  -193.11 (last_100:  -187.70) step: 175 (step_last_100 206) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   114 reward:  -257.02 (last_100:  -185.59) step: 254 (step_last_100 204) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   115 reward:  -115.42 (last_100:  -185.06) step: 131 (step_last_100 203) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   116 reward:  -371.23 (last_100:  -184.82) step: 427 (step_last_100 203) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   117 reward:   -94.39 (last_100:  -182.39) step: 105 (step_last_100 200) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   118 reward:  -410.87 (last_100:  -187.08) step: 448 (step_last_100 204) eps: 0.94 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   119 reward:  -268.37 (last_100:  -187.93) step: 295 (step_last_100 205) eps: 0.94 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   120 reward:  -136.66 (last_100:  -187.12) step: 151 (step_last_100 205) eps: 0.94 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   121 reward:  -392.57 (last_100:  -190.63) step: 393 (step_last_100 208) eps: 0.94 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   122 reward:    53.14 (last_100:  -189.03) step:  54 (step_last_100 208) eps: 0.94 success_last_100    6%  Termination reason: Goal reached
+(DDQN) Ep:   123 reward:  -105.96 (last_100:  -188.31) step: 107 (step_last_100 207) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   124 reward:  -112.95 (last_100:  -187.59) step: 112 (step_last_100 206) eps: 0.94 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   125 reward:    47.69 (last_100:  -184.68) step:  60 (step_last_100 204) eps: 0.94 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   126 reward:  -319.69 (last_100:  -186.68) step: 362 (step_last_100 207) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   127 reward:  -116.53 (last_100:  -185.10) step:  69 (step_last_100 204) eps: 0.94 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   128 reward:  -113.65 (last_100:  -184.96) step: 109 (step_last_100 204) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   129 reward:  -198.00 (last_100:  -185.73) step: 204 (step_last_100 205) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   130 reward:  -274.74 (last_100:  -186.06) step: 275 (step_last_100 205) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   131 reward:  -113.18 (last_100:  -186.15) step: 112 (step_last_100 205) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   132 reward:  -137.19 (last_100:  -186.34) step:  76 (step_last_100 205) eps: 0.94 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   133 reward:  -128.63 (last_100:  -186.43) step: 151 (step_last_100 205) eps: 0.94 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   134 reward:  -276.49 (last_100:  -186.89) step: 302 (step_last_100 205) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   135 reward:  -357.06 (last_100:  -188.36) step: 413 (step_last_100 207) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   136 reward:  -142.02 (last_100:  -187.05) step:  95 (step_last_100 205) eps: 0.93 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   137 reward:  -323.81 (last_100:  -187.18) step: 354 (step_last_100 205) eps: 0.93 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   138 reward:  -414.75 (last_100:  -189.49) step: 500 (step_last_100 209) eps: 0.93 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   139 reward:  -369.55 (last_100:  -191.89) step: 428 (step_last_100 212) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   140 reward:  -162.94 (last_100:  -192.20) step: 111 (step_last_100 211) eps: 0.93 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   141 reward:    16.60 (last_100:  -192.62) step: 102 (step_last_100 212) eps: 0.93 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   142 reward:  -153.26 (last_100:  -192.16) step: 308 (step_last_100 212) eps: 0.93 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:   143 reward:  -208.77 (last_100:  -192.14) step: 251 (step_last_100 213) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   144 reward:  -340.48 (last_100:  -191.71) step: 405 (step_last_100 213) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   145 reward:  -303.30 (last_100:  -193.69) step: 399 (step_last_100 216) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   146 reward:  -255.94 (last_100:  -194.31) step: 266 (step_last_100 217) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   147 reward:  -107.00 (last_100:  -193.70) step: 103 (step_last_100 216) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   148 reward:  -121.31 (last_100:  -193.36) step: 118 (step_last_100 216) eps: 0.93 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   149 reward:  -143.75 (last_100:  -193.76) step:  90 (step_last_100 216) eps: 0.93 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   150 reward:  -150.68 (last_100:  -195.42) step: 169 (step_last_100 217) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   151 reward:  -106.07 (last_100:  -193.68) step: 100 (step_last_100 215) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   152 reward:   -97.87 (last_100:  -193.29) step:  98 (step_last_100 215) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   153 reward:  -173.00 (last_100:  -191.51) step: 113 (step_last_100 212) eps: 0.93 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   154 reward:   -96.89 (last_100:  -190.89) step: 101 (step_last_100 211) eps: 0.93 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   155 reward:   -96.08 (last_100:  -190.79) step:  49 (step_last_100 211) eps: 0.92 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   156 reward:  -294.15 (last_100:  -192.12) step: 347 (step_last_100 213) eps: 0.92 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   157 reward:  -105.36 (last_100:  -193.76) step:  93 (step_last_100 213) eps: 0.92 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   158 reward:  -121.56 (last_100:  -193.47) step: 123 (step_last_100 212) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   159 reward:  -440.36 (last_100:  -196.45) step: 500 (step_last_100 216) eps: 0.92 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   160 reward:  -185.23 (last_100:  -194.46) step: 185 (step_last_100 214) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   161 reward:  -116.93 (last_100:  -191.57) step: 114 (step_last_100 211) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   162 reward:  -238.68 (last_100:  -192.55) step: 223 (step_last_100 211) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   163 reward:  -150.62 (last_100:  -190.70) step: 153 (step_last_100 209) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   164 reward:  -236.35 (last_100:  -191.58) step: 220 (step_last_100 210) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   165 reward:  -238.55 (last_100:  -192.97) step: 298 (step_last_100 212) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   166 reward:  -109.63 (last_100:  -191.03) step: 136 (step_last_100 210) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   167 reward:  -100.86 (last_100:  -190.85) step: 100 (step_last_100 210) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   168 reward:  -135.19 (last_100:  -190.95) step: 124 (step_last_100 210) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   169 reward:  -432.41 (last_100:  -193.92) step: 500 (step_last_100 214) eps: 0.92 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   170 reward:  -249.50 (last_100:  -195.24) step: 233 (step_last_100 215) eps: 0.92 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   171 reward:  -104.73 (last_100:  -195.08) step: 101 (step_last_100 214) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   172 reward:  -167.81 (last_100:  -194.64) step: 163 (step_last_100 214) eps: 0.92 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   173 reward:    16.29 (last_100:  -193.13) step: 118 (step_last_100 213) eps: 0.92 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   174 reward:  -213.46 (last_100:  -193.89) step: 262 (step_last_100 215) eps: 0.92 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   175 reward:  -248.89 (last_100:  -195.00) step: 265 (step_last_100 216) eps: 0.92 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   176 reward:  -119.38 (last_100:  -194.56) step: 120 (step_last_100 216) eps: 0.92 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   177 reward:  -285.83 (last_100:  -192.89) step: 319 (step_last_100 214) eps: 0.91 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   178 reward:  -141.51 (last_100:  -192.37) step: 147 (step_last_100 214) eps: 0.91 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   179 reward:  -158.78 (last_100:  -192.92) step: 105 (step_last_100 214) eps: 0.91 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   180 reward:  -420.29 (last_100:  -194.67) step: 500 (step_last_100 216) eps: 0.91 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   181 reward:  -255.88 (last_100:  -196.04) step: 298 (step_last_100 218) eps: 0.91 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   182 reward:  -408.72 (last_100:  -198.95) step: 500 (step_last_100 222) eps: 0.91 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   183 reward:  -119.10 (last_100:  -199.16) step: 115 (step_last_100 222) eps: 0.91 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   184 reward:  -116.04 (last_100:  -198.77) step: 133 (step_last_100 221) eps: 0.91 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   185 reward:  -146.57 (last_100:  -199.02) step: 142 (step_last_100 222) eps: 0.91 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   186 reward:  -102.26 (last_100:  -197.57) step:  58 (step_last_100 219) eps: 0.91 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   187 reward:  -116.98 (last_100:  -196.72) step: 113 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   188 reward:  -125.08 (last_100:  -196.01) step: 126 (step_last_100 216) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   189 reward:  -391.22 (last_100:  -198.53) step: 472 (step_last_100 219) eps: 0.91 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   190 reward:  -433.29 (last_100:  -202.05) step: 500 (step_last_100 223) eps: 0.91 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   191 reward:  -103.54 (last_100:  -199.18) step:  90 (step_last_100 220) eps: 0.91 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   192 reward:  -140.14 (last_100:  -196.68) step: 137 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   193 reward:  -175.38 (last_100:  -195.94) step: 226 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   194 reward:  -216.68 (last_100:  -196.57) step: 241 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   195 reward:  -284.40 (last_100:  -196.54) step: 254 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   196 reward:  -110.03 (last_100:  -196.52) step: 111 (step_last_100 217) eps: 0.91 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   197 reward:    81.94 (last_100:  -192.46) step:  21 (step_last_100 213) eps: 0.91 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   198 reward:  -102.23 (last_100:  -191.79) step:  55 (step_last_100 212) eps: 0.91 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   199 reward:  -153.06 (last_100:  -193.56) step: 152 (step_last_100 212) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   200 reward:  -145.62 (last_100:  -193.93) step: 142 (step_last_100 212) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   201 reward:  -105.34 (last_100:  -194.26) step: 100 (step_last_100 213) eps: 0.90 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   202 reward:  -210.29 (last_100:  -192.08) step: 191 (step_last_100 210) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   203 reward:  -149.38 (last_100:  -191.56) step:  98 (step_last_100 209) eps: 0.90 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   204 reward:  -132.93 (last_100:  -191.83) step: 143 (step_last_100 209) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   205 reward:  -247.90 (last_100:  -190.17) step: 279 (step_last_100 207) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   206 reward:  -125.77 (last_100:  -189.42) step: 127 (step_last_100 206) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   207 reward:  -365.72 (last_100:  -191.69) step: 500 (step_last_100 209) eps: 0.90 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   208 reward:  -400.47 (last_100:  -193.24) step: 500 (step_last_100 212) eps: 0.90 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   209 reward:  -124.47 (last_100:  -192.94) step:  74 (step_last_100 211) eps: 0.90 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   210 reward:  -133.66 (last_100:  -192.77) step: 132 (step_last_100 210) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   211 reward:  -101.70 (last_100:  -192.00) step: 115 (step_last_100 210) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   212 reward:  -117.97 (last_100:  -189.23) step: 118 (step_last_100 206) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   213 reward:  -313.49 (last_100:  -190.44) step: 333 (step_last_100 208) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   214 reward:  -182.25 (last_100:  -189.69) step: 193 (step_last_100 207) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   215 reward:  -117.36 (last_100:  -189.71) step:  95 (step_last_100 207) eps: 0.90 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   216 reward:  -124.95 (last_100:  -187.25) step: 121 (step_last_100 204) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   217 reward:   -95.09 (last_100:  -187.25) step: 104 (step_last_100 204) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   218 reward:  -395.33 (last_100:  -187.10) step: 500 (step_last_100 204) eps: 0.90 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   219 reward:  -127.40 (last_100:  -185.69) step: 121 (step_last_100 202) eps: 0.90 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   220 reward:    -1.51 (last_100:  -184.34) step: 110 (step_last_100 202) eps: 0.90 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   221 reward:  -317.64 (last_100:  -183.59) step: 376 (step_last_100 202) eps: 0.89 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   222 reward:  -205.52 (last_100:  -186.18) step: 203 (step_last_100 203) eps: 0.89 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   223 reward:  -398.09 (last_100:  -189.10) step: 500 (step_last_100 207) eps: 0.89 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   224 reward:  -112.02 (last_100:  -189.09) step:  70 (step_last_100 207) eps: 0.89 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   225 reward:  -120.93 (last_100:  -190.77) step:  76 (step_last_100 207) eps: 0.89 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   226 reward:  -143.57 (last_100:  -189.01) step: 142 (step_last_100 205) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   227 reward:  -428.12 (last_100:  -192.13) step: 464 (step_last_100 209) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   228 reward:  -217.97 (last_100:  -193.17) step: 193 (step_last_100 210) eps: 0.89 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   229 reward:  -119.73 (last_100:  -192.39) step: 116 (step_last_100 209) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   230 reward:  -171.43 (last_100:  -191.36) step: 157 (step_last_100 208) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   231 reward:  -137.40 (last_100:  -191.60) step: 132 (step_last_100 208) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   232 reward:  -116.27 (last_100:  -191.39) step: 121 (step_last_100 208) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   233 reward:  -139.04 (last_100:  -191.49) step: 141 (step_last_100 208) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   234 reward:  -159.92 (last_100:  -190.33) step: 159 (step_last_100 207) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   235 reward:  -169.00 (last_100:  -188.45) step: 173 (step_last_100 204) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   236 reward:  -107.54 (last_100:  -188.10) step: 105 (step_last_100 204) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   237 reward:  -417.95 (last_100:  -189.04) step: 500 (step_last_100 206) eps: 0.89 success_last_100    5%  Termination reason: Time out
+(DDQN) Ep:   238 reward:  -258.25 (last_100:  -187.48) step: 254 (step_last_100 203) eps: 0.89 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   239 reward:   -27.59 (last_100:  -184.06) step: 172 (step_last_100 201) eps: 0.89 success_last_100    6%  Termination reason: Goal reached
+(DDQN) Ep:   240 reward:  -457.81 (last_100:  -187.01) step: 500 (step_last_100 205) eps: 0.89 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   241 reward:  -108.29 (last_100:  -188.26) step:  60 (step_last_100 204) eps: 0.89 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   242 reward:  -135.86 (last_100:  -188.08) step: 144 (step_last_100 203) eps: 0.89 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   243 reward:  -124.39 (last_100:  -187.24) step:  75 (step_last_100 201) eps: 0.89 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   244 reward:  -119.57 (last_100:  -185.03) step:  75 (step_last_100 198) eps: 0.88 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   245 reward:  -210.08 (last_100:  -184.10) step: 225 (step_last_100 196) eps: 0.88 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   246 reward:  -157.89 (last_100:  -183.12) step: 164 (step_last_100 195) eps: 0.88 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   247 reward:    71.44 (last_100:  -181.33) step:  35 (step_last_100 194) eps: 0.88 success_last_100    5%  Termination reason: Goal reached
+(DDQN) Ep:   248 reward:  -103.40 (last_100:  -181.15) step:  56 (step_last_100 193) eps: 0.88 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   249 reward:  -116.42 (last_100:  -180.88) step:  72 (step_last_100 193) eps: 0.88 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   250 reward:  -114.81 (last_100:  -180.52) step:  67 (step_last_100 192) eps: 0.88 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   251 reward:  -121.91 (last_100:  -180.68) step: 116 (step_last_100 192) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   252 reward:  -102.29 (last_100:  -180.72) step: 111 (step_last_100 193) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   253 reward:  -105.60 (last_100:  -180.05) step: 103 (step_last_100 192) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   254 reward:  -117.34 (last_100:  -180.25) step: 117 (step_last_100 193) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   255 reward:  -137.01 (last_100:  -180.66) step: 134 (step_last_100 193) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   256 reward:  -150.58 (last_100:  -179.23) step: 150 (step_last_100 192) eps: 0.88 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   257 reward:    25.32 (last_100:  -177.92) step:  84 (step_last_100 191) eps: 0.88 success_last_100    6%  Termination reason: Goal reached
+(DDQN) Ep:   258 reward:  -285.40 (last_100:  -179.56) step: 305 (step_last_100 193) eps: 0.88 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   259 reward:  -101.99 (last_100:  -176.18) step:  58 (step_last_100 189) eps: 0.88 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   260 reward:  -286.85 (last_100:  -177.19) step: 453 (step_last_100 191) eps: 0.88 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:   261 reward:  -439.48 (last_100:  -180.42) step: 500 (step_last_100 195) eps: 0.88 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   262 reward:  -106.81 (last_100:  -179.10) step:  59 (step_last_100 194) eps: 0.88 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   263 reward:  -458.19 (last_100:  -182.17) step: 500 (step_last_100 197) eps: 0.88 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   264 reward:  -129.67 (last_100:  -181.11) step: 128 (step_last_100 196) eps: 0.88 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   265 reward:  -448.60 (last_100:  -183.21) step: 500 (step_last_100 198) eps: 0.88 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   266 reward:  -229.23 (last_100:  -184.40) step: 274 (step_last_100 200) eps: 0.87 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   267 reward:  -475.66 (last_100:  -188.15) step: 476 (step_last_100 203) eps: 0.87 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   268 reward:  -244.84 (last_100:  -189.25) step: 210 (step_last_100 204) eps: 0.87 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   269 reward:  -154.37 (last_100:  -186.47) step: 106 (step_last_100 200) eps: 0.87 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   270 reward:  -260.35 (last_100:  -186.58) step: 243 (step_last_100 200) eps: 0.87 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   271 reward:  -104.71 (last_100:  -186.58) step:  58 (step_last_100 200) eps: 0.87 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   272 reward:  -130.85 (last_100:  -186.21) step: 279 (step_last_100 201) eps: 0.87 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:   273 reward:  -162.42 (last_100:  -187.99) step: 133 (step_last_100 201) eps: 0.87 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   274 reward:  -115.29 (last_100:  -187.01) step: 112 (step_last_100 200) eps: 0.87 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   275 reward:  -153.34 (last_100:  -186.06) step: 149 (step_last_100 199) eps: 0.87 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   276 reward:    72.48 (last_100:  -184.14) step:  34 (step_last_100 198) eps: 0.87 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:   277 reward:  -353.88 (last_100:  -184.82) step: 356 (step_last_100 198) eps: 0.87 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   278 reward:  -484.36 (last_100:  -188.25) step: 500 (step_last_100 202) eps: 0.87 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   279 reward:  -100.34 (last_100:  -187.66) step:  55 (step_last_100 201) eps: 0.87 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   280 reward:  -113.49 (last_100:  -184.59) step:  62 (step_last_100 197) eps: 0.87 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   281 reward:  -108.24 (last_100:  -183.12) step:  60 (step_last_100 194) eps: 0.87 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   282 reward:  -139.38 (last_100:  -180.42) step: 140 (step_last_100 191) eps: 0.87 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   283 reward:  -406.70 (last_100:  -183.30) step: 427 (step_last_100 194) eps: 0.87 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   284 reward:  -223.52 (last_100:  -184.38) step: 230 (step_last_100 195) eps: 0.87 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   285 reward:  -113.47 (last_100:  -184.04) step:  70 (step_last_100 194) eps: 0.87 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   286 reward:  -280.48 (last_100:  -185.83) step: 279 (step_last_100 196) eps: 0.87 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   287 reward:  -183.76 (last_100:  -186.49) step: 141 (step_last_100 197) eps: 0.87 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   288 reward:  -473.29 (last_100:  -189.98) step: 500 (step_last_100 200) eps: 0.87 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   289 reward:  -118.26 (last_100:  -187.25) step: 262 (step_last_100 198) eps: 0.86 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   290 reward:   -98.61 (last_100:  -183.90) step: 100 (step_last_100 194) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   291 reward:   -44.13 (last_100:  -183.31) step:  21 (step_last_100 194) eps: 0.86 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   292 reward:  -330.54 (last_100:  -185.21) step: 359 (step_last_100 196) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   293 reward:  -129.01 (last_100:  -184.75) step: 122 (step_last_100 195) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   294 reward:  -115.07 (last_100:  -183.73) step: 115 (step_last_100 194) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   295 reward:  -207.29 (last_100:  -182.96) step: 217 (step_last_100 193) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   296 reward:  -302.18 (last_100:  -184.88) step: 341 (step_last_100 196) eps: 0.86 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   297 reward:  -445.54 (last_100:  -190.15) step: 478 (step_last_100 200) eps: 0.86 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   298 reward:  -418.41 (last_100:  -193.32) step: 428 (step_last_100 204) eps: 0.86 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   299 reward:  -102.26 (last_100:  -192.81) step:  59 (step_last_100 203) eps: 0.86 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   300 reward:  -233.21 (last_100:  -193.68) step: 234 (step_last_100 204) eps: 0.86 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   301 reward:  -464.77 (last_100:  -197.28) step: 500 (step_last_100 208) eps: 0.86 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   302 reward:   -97.40 (last_100:  -196.15) step:  53 (step_last_100 206) eps: 0.86 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   303 reward:  -125.60 (last_100:  -195.91) step:  76 (step_last_100 206) eps: 0.86 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   304 reward:  -440.79 (last_100:  -198.99) step: 500 (step_last_100 210) eps: 0.86 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   305 reward:  -436.87 (last_100:  -200.88) step: 500 (step_last_100 212) eps: 0.86 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   306 reward:  -212.60 (last_100:  -201.75) step: 211 (step_last_100 213) eps: 0.86 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   307 reward:  -130.15 (last_100:  -199.39) step:  73 (step_last_100 209) eps: 0.86 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   308 reward:   -50.64 (last_100:  -195.89) step:  28 (step_last_100 204) eps: 0.86 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   309 reward:   -49.58 (last_100:  -195.15) step:  27 (step_last_100 203) eps: 0.86 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   310 reward:  -212.79 (last_100:  -195.94) step: 157 (step_last_100 204) eps: 0.86 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   311 reward:  -463.60 (last_100:  -199.56) step: 500 (step_last_100 207) eps: 0.86 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   312 reward:  -305.09 (last_100:  -201.43) step: 301 (step_last_100 209) eps: 0.86 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   313 reward:  -117.04 (last_100:  -199.46) step:  72 (step_last_100 207) eps: 0.85 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   314 reward:  -153.20 (last_100:  -199.17) step: 152 (step_last_100 206) eps: 0.85 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   315 reward:  -444.01 (last_100:  -202.44) step: 461 (step_last_100 210) eps: 0.85 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   316 reward:  -437.34 (last_100:  -205.56) step: 500 (step_last_100 214) eps: 0.85 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   317 reward:  -166.85 (last_100:  -206.28) step: 294 (step_last_100 216) eps: 0.85 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   318 reward:  -133.15 (last_100:  -203.66) step: 134 (step_last_100 212) eps: 0.85 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   319 reward:  -132.34 (last_100:  -203.71) step:  76 (step_last_100 212) eps: 0.85 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   320 reward:  -301.68 (last_100:  -206.71) step: 323 (step_last_100 214) eps: 0.85 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   321 reward:    -7.15 (last_100:  -203.60) step: 128 (step_last_100 211) eps: 0.85 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   322 reward:  -269.12 (last_100:  -204.24) step: 344 (step_last_100 213) eps: 0.85 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   323 reward:  -459.19 (last_100:  -204.85) step: 500 (step_last_100 213) eps: 0.85 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   324 reward:  -398.60 (last_100:  -207.72) step: 430 (step_last_100 216) eps: 0.85 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   325 reward:  -131.12 (last_100:  -207.82) step: 124 (step_last_100 217) eps: 0.85 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   326 reward:  -322.33 (last_100:  -209.61) step: 452 (step_last_100 220) eps: 0.85 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   327 reward:  -342.99 (last_100:  -208.76) step: 282 (step_last_100 218) eps: 0.85 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   328 reward:  -146.36 (last_100:  -208.04) step: 138 (step_last_100 217) eps: 0.85 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   329 reward:  -109.92 (last_100:  -207.94) step: 109 (step_last_100 217) eps: 0.85 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   330 reward:  -192.41 (last_100:  -208.15) step: 287 (step_last_100 219) eps: 0.85 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   331 reward:  -204.27 (last_100:  -208.82) step: 199 (step_last_100 219) eps: 0.85 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   332 reward:  -113.43 (last_100:  -208.79) step: 132 (step_last_100 219) eps: 0.85 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   333 reward:  -236.90 (last_100:  -209.77) step: 181 (step_last_100 220) eps: 0.85 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   334 reward:  -219.72 (last_100:  -210.37) step: 230 (step_last_100 220) eps: 0.85 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   335 reward:  -117.35 (last_100:  -209.85) step: 127 (step_last_100 220) eps: 0.85 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   336 reward:  -113.56 (last_100:  -209.91) step:  62 (step_last_100 220) eps: 0.84 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   337 reward:  -220.70 (last_100:  -207.94) step: 218 (step_last_100 217) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   338 reward:  -176.29 (last_100:  -207.12) step: 200 (step_last_100 216) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   339 reward:  -213.82 (last_100:  -208.98) step: 212 (step_last_100 217) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   340 reward:  -129.81 (last_100:  -205.70) step: 125 (step_last_100 213) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   341 reward:    40.27 (last_100:  -204.22) step:  87 (step_last_100 213) eps: 0.84 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   342 reward:  -379.32 (last_100:  -206.65) step: 440 (step_last_100 216) eps: 0.84 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   343 reward:  -186.19 (last_100:  -207.27) step: 179 (step_last_100 217) eps: 0.84 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   344 reward:  -263.50 (last_100:  -208.71) step: 253 (step_last_100 219) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   345 reward:   -66.99 (last_100:  -207.28) step:  46 (step_last_100 217) eps: 0.84 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   346 reward:   -83.98 (last_100:  -206.54) step:  96 (step_last_100 216) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   347 reward:  -122.22 (last_100:  -208.48) step: 150 (step_last_100 218) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   348 reward:  -155.84 (last_100:  -209.00) step: 190 (step_last_100 219) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   349 reward:  -109.32 (last_100:  -208.93) step:  59 (step_last_100 219) eps: 0.84 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   350 reward:  -360.54 (last_100:  -211.39) step: 408 (step_last_100 222) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   351 reward:  -134.33 (last_100:  -211.51) step: 133 (step_last_100 222) eps: 0.84 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   352 reward:   -57.25 (last_100:  -211.06) step: 172 (step_last_100 223) eps: 0.84 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   353 reward:  -100.97 (last_100:  -211.01) step: 123 (step_last_100 223) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   354 reward:  -185.13 (last_100:  -211.69) step: 210 (step_last_100 224) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   355 reward:  -403.75 (last_100:  -214.36) step: 500 (step_last_100 228) eps: 0.84 success_last_100   11%  Termination reason: Time out
+(DDQN) Ep:   356 reward:  -148.57 (last_100:  -214.34) step: 154 (step_last_100 228) eps: 0.84 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   357 reward:  -108.95 (last_100:  -215.68) step:  57 (step_last_100 228) eps: 0.84 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   358 reward:  -157.13 (last_100:  -214.40) step: 107 (step_last_100 226) eps: 0.84 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   359 reward:  -470.23 (last_100:  -218.08) step: 500 (step_last_100 230) eps: 0.84 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:   360 reward:  -175.57 (last_100:  -216.97) step: 124 (step_last_100 227) eps: 0.83 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   361 reward:  -202.93 (last_100:  -214.60) step: 220 (step_last_100 224) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   362 reward:  -193.78 (last_100:  -215.47) step: 185 (step_last_100 225) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   363 reward:  -492.56 (last_100:  -215.82) step: 500 (step_last_100 225) eps: 0.83 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   364 reward:  -403.83 (last_100:  -218.56) step: 361 (step_last_100 228) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   365 reward:  -402.60 (last_100:  -218.10) step: 500 (step_last_100 228) eps: 0.83 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   366 reward:  -189.05 (last_100:  -217.70) step: 204 (step_last_100 227) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   367 reward:  -123.81 (last_100:  -214.18) step:  78 (step_last_100 223) eps: 0.83 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   368 reward:  -414.19 (last_100:  -215.87) step: 500 (step_last_100 226) eps: 0.83 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   369 reward:  -276.53 (last_100:  -217.09) step: 300 (step_last_100 228) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   370 reward:  -435.65 (last_100:  -218.85) step: 500 (step_last_100 230) eps: 0.83 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   371 reward:  -472.33 (last_100:  -222.52) step: 500 (step_last_100 235) eps: 0.83 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   372 reward:     6.90 (last_100:  -221.14) step:  95 (step_last_100 233) eps: 0.83 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   373 reward:  -145.67 (last_100:  -220.98) step: 136 (step_last_100 233) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   374 reward:   -75.72 (last_100:  -220.58) step: 197 (step_last_100 234) eps: 0.83 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   375 reward:  -301.82 (last_100:  -222.07) step: 342 (step_last_100 236) eps: 0.83 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   376 reward:  -212.34 (last_100:  -224.91) step: 193 (step_last_100 237) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   377 reward:  -205.88 (last_100:  -223.43) step: 196 (step_last_100 236) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   378 reward:  -389.35 (last_100:  -222.48) step: 394 (step_last_100 235) eps: 0.83 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   379 reward:  -278.26 (last_100:  -224.26) step: 270 (step_last_100 237) eps: 0.83 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   380 reward:    46.34 (last_100:  -222.66) step:  60 (step_last_100 237) eps: 0.83 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   381 reward:    -9.46 (last_100:  -221.68) step: 151 (step_last_100 238) eps: 0.83 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   382 reward:    18.27 (last_100:  -220.10) step:  87 (step_last_100 237) eps: 0.83 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:   383 reward:  -166.13 (last_100:  -217.69) step: 152 (step_last_100 234) eps: 0.83 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   384 reward:   -98.07 (last_100:  -216.44) step: 101 (step_last_100 233) eps: 0.82 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   385 reward:  -112.47 (last_100:  -216.43) step: 108 (step_last_100 233) eps: 0.82 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   386 reward:  -249.04 (last_100:  -216.12) step: 254 (step_last_100 233) eps: 0.82 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   387 reward:  -434.88 (last_100:  -218.63) step: 500 (step_last_100 237) eps: 0.82 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   388 reward:  -191.86 (last_100:  -215.81) step: 212 (step_last_100 234) eps: 0.82 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   389 reward:  -280.82 (last_100:  -217.44) step: 294 (step_last_100 234) eps: 0.82 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   390 reward:  -101.59 (last_100:  -217.47) step:  55 (step_last_100 234) eps: 0.82 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   391 reward:  -494.36 (last_100:  -221.97) step: 500 (step_last_100 239) eps: 0.82 success_last_100   11%  Termination reason: Time out
+(DDQN) Ep:   392 reward:  -410.39 (last_100:  -222.77) step: 500 (step_last_100 240) eps: 0.82 success_last_100   11%  Termination reason: Time out
+(DDQN) Ep:   393 reward:  -201.39 (last_100:  -223.49) step: 202 (step_last_100 241) eps: 0.82 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   394 reward:  -236.62 (last_100:  -224.71) step: 252 (step_last_100 242) eps: 0.82 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   395 reward:  -241.78 (last_100:  -225.05) step: 219 (step_last_100 242) eps: 0.82 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   396 reward:  -247.39 (last_100:  -224.51) step: 240 (step_last_100 241) eps: 0.82 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   397 reward:  -430.51 (last_100:  -224.35) step: 500 (step_last_100 241) eps: 0.82 success_last_100   11%  Termination reason: Time out
+(DDQN) Ep:   398 reward:  -142.70 (last_100:  -221.60) step: 152 (step_last_100 239) eps: 0.82 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   399 reward:  -106.41 (last_100:  -221.64) step:  56 (step_last_100 239) eps: 0.82 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   400 reward:  -342.56 (last_100:  -222.73) step: 320 (step_last_100 239) eps: 0.82 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   401 reward:     7.40 (last_100:  -218.01) step:  89 (step_last_100 235) eps: 0.82 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:   402 reward:  -224.62 (last_100:  -219.28) step: 198 (step_last_100 237) eps: 0.82 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   403 reward:    33.86 (last_100:  -217.69) step:  79 (step_last_100 237) eps: 0.82 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   404 reward:  -236.31 (last_100:  -215.64) step: 244 (step_last_100 234) eps: 0.82 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   405 reward:  -130.59 (last_100:  -212.58) step:  84 (step_last_100 230) eps: 0.82 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   406 reward:  -228.28 (last_100:  -212.74) step: 184 (step_last_100 230) eps: 0.82 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   407 reward:  -188.86 (last_100:  -213.32) step: 184 (step_last_100 231) eps: 0.82 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   408 reward:  -120.31 (last_100:  -214.02) step:  70 (step_last_100 231) eps: 0.82 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   409 reward:  -102.92 (last_100:  -214.56) step:  56 (step_last_100 232) eps: 0.81 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   410 reward:  -125.33 (last_100:  -213.68) step: 118 (step_last_100 231) eps: 0.81 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   411 reward:  -235.27 (last_100:  -211.40) step: 187 (step_last_100 228) eps: 0.81 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   412 reward:  -130.20 (last_100:  -209.65) step: 123 (step_last_100 226) eps: 0.81 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   413 reward:  -454.39 (last_100:  -213.02) step: 500 (step_last_100 231) eps: 0.81 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   414 reward:  -139.90 (last_100:  -212.89) step: 260 (step_last_100 232) eps: 0.81 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   415 reward:  -441.81 (last_100:  -212.87) step: 500 (step_last_100 232) eps: 0.81 success_last_100   14%  Termination reason: Time out
+(DDQN) Ep:   416 reward:  -168.62 (last_100:  -210.18) step: 117 (step_last_100 228) eps: 0.81 success_last_100   14%  Termination reason: Collision
+(DDQN) Ep:   417 reward:    68.86 (last_100:  -207.82) step:  36 (step_last_100 226) eps: 0.81 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   418 reward:  -227.49 (last_100:  -208.77) step: 239 (step_last_100 227) eps: 0.81 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   419 reward:  -243.75 (last_100:  -209.88) step: 226 (step_last_100 228) eps: 0.81 success_last_100   14%  Termination reason: Not moving
+(DDQN) Ep:   420 reward:  -255.05 (last_100:  -209.41) step: 259 (step_last_100 228) eps: 0.81 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   421 reward:  -468.93 (last_100:  -214.03) step: 500 (step_last_100 231) eps: 0.81 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   422 reward:  -243.08 (last_100:  -213.77) step: 234 (step_last_100 230) eps: 0.81 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   423 reward:  -129.08 (last_100:  -210.47) step: 228 (step_last_100 227) eps: 0.81 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   424 reward:  -287.05 (last_100:  -209.35) step: 253 (step_last_100 226) eps: 0.81 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   425 reward:   -88.77 (last_100:  -208.93) step:  58 (step_last_100 225) eps: 0.81 success_last_100   14%  Termination reason: Not moving
+(DDQN) Ep:   426 reward:  -340.36 (last_100:  -209.11) step: 492 (step_last_100 225) eps: 0.81 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   427 reward:  -303.47 (last_100:  -208.72) step: 268 (step_last_100 225) eps: 0.81 success_last_100   14%  Termination reason: Collision
+(DDQN) Ep:   428 reward:  -138.71 (last_100:  -208.64) step: 133 (step_last_100 225) eps: 0.81 success_last_100   14%  Termination reason: Not moving
+(DDQN) Ep:   429 reward:  -432.67 (last_100:  -211.87) step: 500 (step_last_100 229) eps: 0.81 success_last_100   14%  Termination reason: Time out
+(DDQN) Ep:   430 reward:  -115.43 (last_100:  -211.10) step:  71 (step_last_100 227) eps: 0.81 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   431 reward:  -301.10 (last_100:  -212.07) step: 327 (step_last_100 228) eps: 0.81 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   432 reward:  -192.12 (last_100:  -212.85) step: 183 (step_last_100 229) eps: 0.81 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   433 reward:  -122.49 (last_100:  -211.71) step: 126 (step_last_100 228) eps: 0.80 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   434 reward:    40.02 (last_100:  -209.11) step:  68 (step_last_100 227) eps: 0.80 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   435 reward:  -313.68 (last_100:  -211.07) step: 292 (step_last_100 228) eps: 0.80 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   436 reward:  -218.06 (last_100:  -212.12) step: 238 (step_last_100 230) eps: 0.80 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   437 reward:  -124.07 (last_100:  -211.15) step:  77 (step_last_100 229) eps: 0.80 success_last_100   14%  Termination reason: Collision
+(DDQN) Ep:   438 reward:  -202.98 (last_100:  -211.42) step: 197 (step_last_100 229) eps: 0.80 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   439 reward:  -430.46 (last_100:  -213.59) step: 384 (step_last_100 230) eps: 0.80 success_last_100   14%  Termination reason: Collision
+(DDQN) Ep:   440 reward:  -121.26 (last_100:  -213.50) step: 118 (step_last_100 230) eps: 0.80 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   441 reward:  -430.28 (last_100:  -218.21) step: 500 (step_last_100 234) eps: 0.80 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   442 reward:  -398.75 (last_100:  -218.40) step: 500 (step_last_100 235) eps: 0.80 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   443 reward:  -217.65 (last_100:  -218.72) step: 154 (step_last_100 235) eps: 0.80 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   444 reward:  -400.84 (last_100:  -220.09) step: 500 (step_last_100 237) eps: 0.80 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   445 reward:  -166.20 (last_100:  -221.08) step: 161 (step_last_100 238) eps: 0.80 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   446 reward:  -336.62 (last_100:  -223.61) step: 320 (step_last_100 241) eps: 0.80 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   447 reward:  -466.88 (last_100:  -227.05) step: 500 (step_last_100 244) eps: 0.80 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   448 reward:  -251.55 (last_100:  -228.01) step: 257 (step_last_100 245) eps: 0.80 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   449 reward:  -291.22 (last_100:  -229.83) step: 277 (step_last_100 247) eps: 0.80 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   450 reward:  -172.95 (last_100:  -227.95) step: 152 (step_last_100 244) eps: 0.80 success_last_100   13%  Termination reason: Not moving
+(DDQN) Ep:   451 reward:  -301.67 (last_100:  -229.63) step: 247 (step_last_100 246) eps: 0.80 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   452 reward:  -264.89 (last_100:  -231.70) step: 289 (step_last_100 247) eps: 0.80 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   453 reward:  -131.78 (last_100:  -232.01) step: 135 (step_last_100 247) eps: 0.80 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   454 reward:  -407.02 (last_100:  -234.23) step: 500 (step_last_100 250) eps: 0.80 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   455 reward:   -86.44 (last_100:  -231.06) step: 229 (step_last_100 247) eps: 0.80 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   456 reward:  -331.36 (last_100:  -232.89) step: 394 (step_last_100 249) eps: 0.80 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   457 reward:  -172.02 (last_100:  -233.52) step: 172 (step_last_100 251) eps: 0.80 success_last_100   13%  Termination reason: Not moving
+(DDQN) Ep:   458 reward:  -238.27 (last_100:  -234.33) step: 233 (step_last_100 252) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   459 reward:  -361.86 (last_100:  -233.24) step: 403 (step_last_100 251) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   460 reward:  -251.57 (last_100:  -234.00) step: 272 (step_last_100 252) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   461 reward:   -74.61 (last_100:  -232.72) step:  54 (step_last_100 251) eps: 0.79 success_last_100   13%  Termination reason: Not moving
+(DDQN) Ep:   462 reward:  -375.66 (last_100:  -234.54) step: 417 (step_last_100 253) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   463 reward:  -342.77 (last_100:  -233.04) step: 500 (step_last_100 253) eps: 0.79 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   464 reward:  -395.47 (last_100:  -232.96) step: 375 (step_last_100 253) eps: 0.79 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   465 reward:    -6.09 (last_100:  -228.99) step: 124 (step_last_100 249) eps: 0.79 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   466 reward:  -133.20 (last_100:  -228.43) step: 129 (step_last_100 249) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   467 reward:  -312.86 (last_100:  -230.33) step: 299 (step_last_100 251) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   468 reward:  -282.07 (last_100:  -229.00) step: 285 (step_last_100 249) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   469 reward:  -150.92 (last_100:  -227.75) step: 156 (step_last_100 247) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   470 reward:  -295.43 (last_100:  -226.35) step: 295 (step_last_100 245) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   471 reward:  -297.42 (last_100:  -224.60) step: 335 (step_last_100 244) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   472 reward:  -307.05 (last_100:  -227.74) step: 302 (step_last_100 246) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   473 reward:    19.88 (last_100:  -226.08) step:  83 (step_last_100 245) eps: 0.79 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   474 reward:  -113.71 (last_100:  -226.46) step:  62 (step_last_100 244) eps: 0.79 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   475 reward:  -108.99 (last_100:  -224.53) step:  59 (step_last_100 241) eps: 0.79 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   476 reward:  -203.96 (last_100:  -224.45) step: 204 (step_last_100 241) eps: 0.79 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   477 reward:  -436.78 (last_100:  -226.76) step: 500 (step_last_100 244) eps: 0.79 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   478 reward:  -222.56 (last_100:  -225.09) step: 333 (step_last_100 243) eps: 0.79 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   479 reward:  -153.80 (last_100:  -223.84) step: 153 (step_last_100 242) eps: 0.79 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   480 reward:    28.06 (last_100:  -224.03) step:  88 (step_last_100 243) eps: 0.79 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   481 reward:  -126.35 (last_100:  -225.20) step:  73 (step_last_100 242) eps: 0.79 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   482 reward:  -442.99 (last_100:  -229.81) step: 475 (step_last_100 246) eps: 0.79 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   483 reward:  -442.45 (last_100:  -232.57) step: 500 (step_last_100 249) eps: 0.79 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   484 reward:  -256.79 (last_100:  -234.16) step: 306 (step_last_100 251) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   485 reward:  -176.62 (last_100:  -234.80) step: 205 (step_last_100 252) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   486 reward:  -437.09 (last_100:  -236.68) step: 500 (step_last_100 255) eps: 0.78 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   487 reward:  -297.41 (last_100:  -235.31) step: 311 (step_last_100 253) eps: 0.78 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   488 reward:  -145.59 (last_100:  -234.84) step: 137 (step_last_100 252) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   489 reward:  -271.85 (last_100:  -234.75) step: 244 (step_last_100 251) eps: 0.78 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   490 reward:  -252.69 (last_100:  -236.27) step: 295 (step_last_100 254) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   491 reward:  -405.12 (last_100:  -235.37) step: 468 (step_last_100 254) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   492 reward:  -425.36 (last_100:  -235.52) step: 500 (step_last_100 254) eps: 0.78 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   493 reward:  -173.74 (last_100:  -235.25) step: 229 (step_last_100 254) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   494 reward:  -210.60 (last_100:  -234.99) step: 175 (step_last_100 253) eps: 0.78 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   495 reward:  -119.75 (last_100:  -233.77) step: 121 (step_last_100 252) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   496 reward:  -306.36 (last_100:  -234.36) step: 303 (step_last_100 253) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   497 reward:  -264.59 (last_100:  -232.70) step: 265 (step_last_100 250) eps: 0.78 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   498 reward:   -68.66 (last_100:  -231.96) step:  47 (step_last_100 249) eps: 0.78 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   499 reward:  -246.36 (last_100:  -233.36) step: 259 (step_last_100 251) eps: 0.78 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   500 reward:  -205.33 (last_100:  -231.98) step: 218 (step_last_100 250) eps: 0.78 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   501 reward:  -113.70 (last_100:  -233.19) step:  66 (step_last_100 250) eps: 0.78 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   502 reward:  -107.23 (last_100:  -232.02) step:  56 (step_last_100 249) eps: 0.78 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   503 reward:  -177.41 (last_100:  -234.13) step: 183 (step_last_100 250) eps: 0.78 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:   504 reward:  -214.24 (last_100:  -233.91) step: 206 (step_last_100 249) eps: 0.78 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   505 reward:  -237.72 (last_100:  -234.98) step: 191 (step_last_100 250) eps: 0.78 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   506 reward:  -101.59 (last_100:  -233.72) step:  60 (step_last_100 249) eps: 0.78 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   507 reward:  -218.50 (last_100:  -234.01) step: 155 (step_last_100 249) eps: 0.78 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   508 reward:  -202.59 (last_100:  -234.84) step: 166 (step_last_100 250) eps: 0.78 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   509 reward:  -289.11 (last_100:  -236.70) step: 289 (step_last_100 252) eps: 0.77 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   510 reward:  -349.95 (last_100:  -238.94) step: 331 (step_last_100 254) eps: 0.77 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   511 reward:  -440.03 (last_100:  -240.99) step: 473 (step_last_100 257) eps: 0.77 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:   512 reward:   -41.22 (last_100:  -240.10) step: 167 (step_last_100 258) eps: 0.77 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   513 reward:  -158.94 (last_100:  -237.15) step: 165 (step_last_100 254) eps: 0.77 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   514 reward:  -204.67 (last_100:  -237.79) step: 215 (step_last_100 254) eps: 0.77 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   515 reward:  -251.85 (last_100:  -235.90) step: 263 (step_last_100 251) eps: 0.77 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   516 reward:  -115.96 (last_100:  -235.37) step: 106 (step_last_100 251) eps: 0.77 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   517 reward:  -117.02 (last_100:  -237.23) step: 110 (step_last_100 252) eps: 0.77 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   518 reward:  -112.88 (last_100:  -236.08) step: 107 (step_last_100 251) eps: 0.77 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   519 reward:  -161.14 (last_100:  -235.26) step: 158 (step_last_100 250) eps: 0.77 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   520 reward:  -276.30 (last_100:  -235.47) step: 281 (step_last_100 250) eps: 0.77 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   521 reward:  -398.41 (last_100:  -234.76) step: 469 (step_last_100 250) eps: 0.77 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   522 reward:  -184.31 (last_100:  -234.17) step: 148 (step_last_100 249) eps: 0.77 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   523 reward:    40.29 (last_100:  -232.48) step:  65 (step_last_100 247) eps: 0.77 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   524 reward:  -248.80 (last_100:  -232.10) step: 243 (step_last_100 247) eps: 0.77 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   525 reward:  -122.64 (last_100:  -232.44) step:  67 (step_last_100 247) eps: 0.77 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   526 reward:   -90.34 (last_100:  -229.94) step:  80 (step_last_100 243) eps: 0.77 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   527 reward:  -260.46 (last_100:  -229.51) step: 287 (step_last_100 244) eps: 0.77 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   528 reward:  -240.77 (last_100:  -230.53) step: 259 (step_last_100 245) eps: 0.77 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   529 reward:   -96.93 (last_100:  -227.17) step:  76 (step_last_100 241) eps: 0.77 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   530 reward:  -317.87 (last_100:  -229.19) step: 354 (step_last_100 243) eps: 0.77 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   531 reward:  -281.24 (last_100:  -229.00) step: 293 (step_last_100 243) eps: 0.77 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   532 reward:  -430.08 (last_100:  -231.38) step: 500 (step_last_100 246) eps: 0.77 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   533 reward:  -326.04 (last_100:  -233.41) step: 364 (step_last_100 249) eps: 0.77 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   534 reward:   -68.44 (last_100:  -234.50) step:  46 (step_last_100 248) eps: 0.77 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   535 reward:  -183.89 (last_100:  -233.20) step: 180 (step_last_100 247) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   536 reward:  -447.38 (last_100:  -235.49) step: 500 (step_last_100 250) eps: 0.76 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   537 reward:  -235.15 (last_100:  -236.60) step: 268 (step_last_100 252) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   538 reward:   -91.83 (last_100:  -235.49) step:  94 (step_last_100 251) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   539 reward:  -288.62 (last_100:  -234.07) step: 278 (step_last_100 250) eps: 0.76 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   540 reward:  -302.62 (last_100:  -235.89) step: 335 (step_last_100 252) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   541 reward:  -204.77 (last_100:  -233.63) step: 229 (step_last_100 249) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   542 reward:   -96.61 (last_100:  -230.61) step:  50 (step_last_100 245) eps: 0.76 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   543 reward:  -145.36 (last_100:  -229.89) step: 154 (step_last_100 245) eps: 0.76 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   544 reward:  -207.58 (last_100:  -227.95) step: 204 (step_last_100 242) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   545 reward:  -117.68 (last_100:  -227.47) step: 109 (step_last_100 241) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   546 reward:  -308.70 (last_100:  -227.19) step: 340 (step_last_100 241) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   547 reward:  -244.46 (last_100:  -224.97) step: 193 (step_last_100 238) eps: 0.76 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   548 reward:  -322.06 (last_100:  -225.67) step: 325 (step_last_100 239) eps: 0.76 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   549 reward:    58.75 (last_100:  -222.17) step:  48 (step_last_100 237) eps: 0.76 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:   550 reward:    67.14 (last_100:  -219.77) step:  41 (step_last_100 236) eps: 0.76 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   551 reward:  -318.75 (last_100:  -219.94) step: 380 (step_last_100 237) eps: 0.76 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   552 reward:  -284.12 (last_100:  -220.13) step: 327 (step_last_100 237) eps: 0.76 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   553 reward:  -103.52 (last_100:  -219.85) step: 102 (step_last_100 237) eps: 0.76 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   554 reward:   -65.43 (last_100:  -216.43) step: 212 (step_last_100 234) eps: 0.76 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   555 reward:  -180.19 (last_100:  -217.37) step: 128 (step_last_100 233) eps: 0.76 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   556 reward:  -238.55 (last_100:  -216.44) step: 252 (step_last_100 232) eps: 0.76 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   557 reward:  -248.27 (last_100:  -217.21) step: 267 (step_last_100 233) eps: 0.76 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   558 reward:  -143.21 (last_100:  -216.26) step: 137 (step_last_100 232) eps: 0.76 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   559 reward:  -154.22 (last_100:  -214.18) step: 150 (step_last_100 229) eps: 0.76 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   560 reward:  -105.81 (last_100:  -212.72) step:  60 (step_last_100 227) eps: 0.76 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   561 reward:  -297.93 (last_100:  -214.95) step: 352 (step_last_100 230) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   562 reward:  -335.21 (last_100:  -214.55) step: 389 (step_last_100 230) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   563 reward:  -116.83 (last_100:  -212.29) step:  68 (step_last_100 225) eps: 0.75 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   564 reward:    30.89 (last_100:  -208.03) step:  89 (step_last_100 222) eps: 0.75 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   565 reward:  -134.89 (last_100:  -209.32) step: 133 (step_last_100 223) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   566 reward:  -210.94 (last_100:  -210.09) step: 206 (step_last_100 223) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   567 reward:  -103.79 (last_100:  -208.00) step:  60 (step_last_100 221) eps: 0.75 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   568 reward:   -26.98 (last_100:  -205.45) step: 143 (step_last_100 220) eps: 0.75 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   569 reward:  -272.98 (last_100:  -206.67) step: 243 (step_last_100 220) eps: 0.75 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   570 reward:  -397.75 (last_100:  -207.69) step: 435 (step_last_100 222) eps: 0.75 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:   571 reward:  -180.64 (last_100:  -206.53) step: 130 (step_last_100 220) eps: 0.75 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   572 reward:  -141.35 (last_100:  -204.87) step: 144 (step_last_100 218) eps: 0.75 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   573 reward:  -356.12 (last_100:  -208.63) step: 500 (step_last_100 222) eps: 0.75 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   574 reward:  -440.53 (last_100:  -211.90) step: 500 (step_last_100 227) eps: 0.75 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   575 reward:  -113.74 (last_100:  -211.95) step: 122 (step_last_100 227) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   576 reward:  -239.06 (last_100:  -212.30) step: 292 (step_last_100 228) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   577 reward:  -123.31 (last_100:  -209.16) step: 118 (step_last_100 224) eps: 0.75 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   578 reward:  -186.06 (last_100:  -208.80) step: 207 (step_last_100 223) eps: 0.75 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   579 reward:  -445.39 (last_100:  -211.71) step: 500 (step_last_100 227) eps: 0.75 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   580 reward:    65.95 (last_100:  -211.33) step:  40 (step_last_100 226) eps: 0.75 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:   581 reward:  -334.19 (last_100:  -213.41) step: 380 (step_last_100 229) eps: 0.75 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   582 reward:  -295.64 (last_100:  -211.94) step: 326 (step_last_100 228) eps: 0.75 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   583 reward:  -393.30 (last_100:  -211.45) step: 500 (step_last_100 228) eps: 0.75 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   584 reward:  -360.63 (last_100:  -212.49) step: 500 (step_last_100 230) eps: 0.75 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   585 reward:  -202.58 (last_100:  -212.75) step: 206 (step_last_100 230) eps: 0.75 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   586 reward:  -197.57 (last_100:  -210.35) step: 222 (step_last_100 227) eps: 0.75 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   587 reward:  -420.19 (last_100:  -211.58) step: 500 (step_last_100 229) eps: 0.75 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   588 reward:  -115.30 (last_100:  -211.27) step: 112 (step_last_100 229) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   589 reward:  -304.58 (last_100:  -211.60) step: 389 (step_last_100 230) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   590 reward:  -102.29 (last_100:  -210.10) step:  99 (step_last_100 228) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   591 reward:  -114.75 (last_100:  -207.19) step:  66 (step_last_100 224) eps: 0.74 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   592 reward:  -249.79 (last_100:  -205.44) step: 221 (step_last_100 221) eps: 0.74 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   593 reward:  -428.00 (last_100:  -207.98) step: 470 (step_last_100 224) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   594 reward:  -132.07 (last_100:  -207.20) step:  84 (step_last_100 223) eps: 0.74 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   595 reward:  -114.64 (last_100:  -207.14) step: 108 (step_last_100 223) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   596 reward:  -286.75 (last_100:  -206.95) step: 343 (step_last_100 223) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   597 reward:  -104.92 (last_100:  -205.35) step: 105 (step_last_100 221) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   598 reward:  -428.42 (last_100:  -208.95) step: 500 (step_last_100 226) eps: 0.74 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:   599 reward:  -100.37 (last_100:  -207.49) step: 105 (step_last_100 224) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   600 reward:  -106.65 (last_100:  -206.50) step: 108 (step_last_100 223) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   601 reward:  -157.10 (last_100:  -206.94) step: 165 (step_last_100 224) eps: 0.74 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   602 reward:    47.61 (last_100:  -205.39) step:  61 (step_last_100 224) eps: 0.74 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   603 reward:  -106.31 (last_100:  -204.68) step:  59 (step_last_100 223) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   604 reward:  -334.95 (last_100:  -205.88) step: 370 (step_last_100 225) eps: 0.74 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   605 reward:  -121.52 (last_100:  -204.72) step:  73 (step_last_100 224) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   606 reward:  -107.19 (last_100:  -204.78) step:  62 (step_last_100 224) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   607 reward:  -161.70 (last_100:  -204.21) step: 146 (step_last_100 223) eps: 0.74 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   608 reward:  -292.57 (last_100:  -205.11) step: 324 (step_last_100 225) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   609 reward:  -111.69 (last_100:  -203.34) step: 113 (step_last_100 223) eps: 0.74 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   610 reward:  -174.37 (last_100:  -201.58) step: 192 (step_last_100 222) eps: 0.74 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   611 reward:  -127.72 (last_100:  -198.46) step: 291 (step_last_100 220) eps: 0.74 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   612 reward:  -107.92 (last_100:  -199.12) step:  98 (step_last_100 219) eps: 0.74 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   613 reward:   -95.63 (last_100:  -198.49) step:  47 (step_last_100 218) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   614 reward:  -415.05 (last_100:  -200.59) step: 438 (step_last_100 220) eps: 0.74 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   615 reward:  -112.56 (last_100:  -199.20) step: 106 (step_last_100 219) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   616 reward:  -189.82 (last_100:  -199.94) step: 137 (step_last_100 219) eps: 0.73 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   617 reward:   -97.59 (last_100:  -199.75) step:  49 (step_last_100 219) eps: 0.73 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   618 reward:  -193.22 (last_100:  -200.55) step: 224 (step_last_100 220) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   619 reward:  -117.82 (last_100:  -200.12) step: 106 (step_last_100 219) eps: 0.73 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   620 reward:  -315.05 (last_100:  -200.50) step: 373 (step_last_100 220) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   621 reward:  -216.21 (last_100:  -198.68) step: 196 (step_last_100 217) eps: 0.73 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   622 reward:  -214.93 (last_100:  -198.99) step: 217 (step_last_100 218) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   623 reward:  -143.54 (last_100:  -200.83) step: 141 (step_last_100 219) eps: 0.73 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   624 reward:  -134.34 (last_100:  -199.68) step: 130 (step_last_100 218) eps: 0.73 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   625 reward:   -55.76 (last_100:  -199.01) step:  33 (step_last_100 217) eps: 0.73 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:   626 reward:  -113.04 (last_100:  -199.24) step: 108 (step_last_100 218) eps: 0.73 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   627 reward:     6.97 (last_100:  -196.57) step: 105 (step_last_100 216) eps: 0.73 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   628 reward:  -101.38 (last_100:  -195.17) step:  99 (step_last_100 214) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   629 reward:  -151.84 (last_100:  -195.72) step: 165 (step_last_100 215) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   630 reward:  -415.05 (last_100:  -196.69) step: 415 (step_last_100 216) eps: 0.73 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   631 reward:  -198.68 (last_100:  -195.87) step: 226 (step_last_100 215) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   632 reward:  -159.29 (last_100:  -193.16) step: 186 (step_last_100 212) eps: 0.73 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   633 reward:  -367.35 (last_100:  -193.57) step: 500 (step_last_100 213) eps: 0.73 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   634 reward:  -253.01 (last_100:  -195.42) step: 287 (step_last_100 216) eps: 0.73 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   635 reward:    53.09 (last_100:  -193.05) step:  55 (step_last_100 214) eps: 0.73 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   636 reward:  -144.72 (last_100:  -190.02) step: 328 (step_last_100 213) eps: 0.73 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   637 reward:   -41.25 (last_100:  -188.08) step: 196 (step_last_100 212) eps: 0.73 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:   638 reward:  -165.99 (last_100:  -188.82) step: 168 (step_last_100 213) eps: 0.73 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   639 reward:  -112.82 (last_100:  -187.07) step:  66 (step_last_100 211) eps: 0.73 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   640 reward:  -111.73 (last_100:  -185.16) step: 102 (step_last_100 208) eps: 0.73 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   641 reward:  -108.84 (last_100:  -184.20) step: 108 (step_last_100 207) eps: 0.73 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   642 reward:  -292.10 (last_100:  -186.15) step: 375 (step_last_100 210) eps: 0.73 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   643 reward:  -111.28 (last_100:  -185.81) step: 107 (step_last_100 210) eps: 0.72 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   644 reward:    -5.11 (last_100:  -183.79) step: 119 (step_last_100 209) eps: 0.72 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   645 reward:  -126.97 (last_100:  -183.88) step: 117 (step_last_100 209) eps: 0.72 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   646 reward:  -175.70 (last_100:  -182.55) step: 193 (step_last_100 208) eps: 0.72 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   647 reward:  -247.35 (last_100:  -182.58) step: 254 (step_last_100 208) eps: 0.72 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   648 reward:  -105.16 (last_100:  -180.41) step: 104 (step_last_100 206) eps: 0.72 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   649 reward:  -108.35 (last_100:  -182.08) step: 105 (step_last_100 207) eps: 0.72 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   650 reward:   -97.96 (last_100:  -183.73) step:  52 (step_last_100 207) eps: 0.72 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:   651 reward:  -385.43 (last_100:  -184.40) step: 399 (step_last_100 207) eps: 0.72 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   652 reward:   -95.47 (last_100:  -182.51) step: 118 (step_last_100 205) eps: 0.72 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   653 reward:  -101.49 (last_100:  -182.49) step:  99 (step_last_100 205) eps: 0.72 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   654 reward:  -312.84 (last_100:  -184.97) step: 401 (step_last_100 207) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   655 reward:  -230.78 (last_100:  -185.47) step: 224 (step_last_100 208) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   656 reward:  -106.29 (last_100:  -184.15) step:  57 (step_last_100 206) eps: 0.72 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   657 reward:  -403.48 (last_100:  -185.70) step: 500 (step_last_100 208) eps: 0.72 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:   658 reward:  -108.86 (last_100:  -185.36) step: 102 (step_last_100 208) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   659 reward:  -107.49 (last_100:  -184.89) step:  99 (step_last_100 207) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   660 reward:  -112.95 (last_100:  -184.96) step: 110 (step_last_100 208) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   661 reward:  -121.38 (last_100:  -183.20) step:  69 (step_last_100 205) eps: 0.72 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   662 reward:   -93.55 (last_100:  -180.78) step:  93 (step_last_100 202) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   663 reward:  -193.47 (last_100:  -181.55) step: 195 (step_last_100 203) eps: 0.72 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   664 reward:  -110.25 (last_100:  -182.96) step:  61 (step_last_100 203) eps: 0.72 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   665 reward:  -189.35 (last_100:  -183.50) step: 190 (step_last_100 203) eps: 0.72 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   666 reward:  -512.84 (last_100:  -186.52) step: 500 (step_last_100 206) eps: 0.72 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:   667 reward:   -97.80 (last_100:  -186.46) step:  98 (step_last_100 207) eps: 0.72 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:   668 reward:  -167.51 (last_100:  -187.87) step: 207 (step_last_100 207) eps: 0.72 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   669 reward:  -106.33 (last_100:  -186.20) step:  99 (step_last_100 206) eps: 0.72 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   670 reward:    22.32 (last_100:  -182.00) step:  77 (step_last_100 202) eps: 0.71 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:   671 reward:    39.95 (last_100:  -179.79) step:  65 (step_last_100 202) eps: 0.71 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:   672 reward:  -251.27 (last_100:  -180.89) step: 289 (step_last_100 203) eps: 0.71 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   673 reward:  -204.74 (last_100:  -179.38) step: 195 (step_last_100 200) eps: 0.71 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   674 reward:  -128.26 (last_100:  -176.26) step: 125 (step_last_100 196) eps: 0.71 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   675 reward:   -19.66 (last_100:  -175.32) step: 174 (step_last_100 197) eps: 0.71 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   676 reward:  -171.59 (last_100:  -174.64) step: 198 (step_last_100 196) eps: 0.71 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   677 reward:    20.36 (last_100:  -173.20) step:  79 (step_last_100 196) eps: 0.71 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:   678 reward:  -206.93 (last_100:  -173.41) step: 232 (step_last_100 196) eps: 0.71 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   679 reward:  -342.28 (last_100:  -172.38) step: 389 (step_last_100 195) eps: 0.71 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   680 reward:  -191.13 (last_100:  -174.95) step: 187 (step_last_100 196) eps: 0.71 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   681 reward:  -259.85 (last_100:  -174.21) step: 279 (step_last_100 195) eps: 0.71 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:   682 reward:  -100.92 (last_100:  -172.26) step: 179 (step_last_100 194) eps: 0.71 success_last_100   12%  Termination reason: Goal reached
+(DDQN) Ep:   683 reward:  -386.85 (last_100:  -172.20) step: 416 (step_last_100 193) eps: 0.71 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   684 reward:    45.62 (last_100:  -168.14) step:  69 (step_last_100 189) eps: 0.71 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   685 reward:  -120.32 (last_100:  -167.31) step:  73 (step_last_100 187) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   686 reward:  -222.23 (last_100:  -167.56) step: 190 (step_last_100 187) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   687 reward:  -356.91 (last_100:  -166.93) step: 412 (step_last_100 186) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   688 reward:  -208.90 (last_100:  -167.86) step: 174 (step_last_100 187) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   689 reward:  -224.40 (last_100:  -167.06) step: 197 (step_last_100 185) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   690 reward:  -161.58 (last_100:  -167.65) step: 188 (step_last_100 186) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   691 reward:  -363.03 (last_100:  -170.14) step: 430 (step_last_100 189) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   692 reward:  -119.78 (last_100:  -168.84) step:  67 (step_last_100 188) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   693 reward:  -287.79 (last_100:  -167.43) step: 274 (step_last_100 186) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   694 reward:  -189.60 (last_100:  -168.01) step: 194 (step_last_100 187) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   695 reward:  -208.16 (last_100:  -168.94) step: 176 (step_last_100 188) eps: 0.71 success_last_100   13%  Termination reason: Collision
+(DDQN) Ep:   696 reward:  -221.98 (last_100:  -168.30) step: 215 (step_last_100 186) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   697 reward:  -185.35 (last_100:  -169.10) step: 200 (step_last_100 187) eps: 0.71 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   698 reward:  -122.05 (last_100:  -166.04) step: 122 (step_last_100 183) eps: 0.70 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   699 reward:  -434.90 (last_100:  -169.38) step: 500 (step_last_100 187) eps: 0.70 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   700 reward:  -432.52 (last_100:  -172.64) step: 500 (step_last_100 191) eps: 0.70 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   701 reward:  -393.76 (last_100:  -175.01) step: 500 (step_last_100 195) eps: 0.70 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   702 reward:  -177.27 (last_100:  -177.26) step: 181 (step_last_100 196) eps: 0.70 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   703 reward:  -112.30 (last_100:  -177.32) step:  67 (step_last_100 196) eps: 0.70 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   704 reward:  -407.82 (last_100:  -178.05) step: 500 (step_last_100 197) eps: 0.70 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   705 reward:  -176.00 (last_100:  -178.59) step: 222 (step_last_100 199) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   706 reward:  -213.85 (last_100:  -179.66) step: 229 (step_last_100 200) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   707 reward:  -286.66 (last_100:  -180.91) step: 277 (step_last_100 202) eps: 0.70 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   708 reward:  -137.61 (last_100:  -179.36) step: 134 (step_last_100 200) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   709 reward:  -277.78 (last_100:  -181.02) step: 272 (step_last_100 201) eps: 0.70 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   710 reward:   -66.05 (last_100:  -179.93) step: 183 (step_last_100 201) eps: 0.70 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   711 reward:  -111.30 (last_100:  -179.77) step:  59 (step_last_100 199) eps: 0.70 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   712 reward:  -111.39 (last_100:  -179.80) step: 110 (step_last_100 199) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   713 reward:  -199.29 (last_100:  -180.84) step: 216 (step_last_100 201) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   714 reward:   -50.57 (last_100:  -177.20) step:  28 (step_last_100 197) eps: 0.70 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   715 reward:  -262.92 (last_100:  -178.70) step: 304 (step_last_100 199) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   716 reward:  -134.99 (last_100:  -178.15) step: 132 (step_last_100 199) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   717 reward:  -265.64 (last_100:  -179.83) step: 284 (step_last_100 201) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   718 reward:  -209.56 (last_100:  -180.00) step: 145 (step_last_100 200) eps: 0.70 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   719 reward:  -130.12 (last_100:  -180.12) step: 127 (step_last_100 200) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   720 reward:   -81.74 (last_100:  -177.79) step:  94 (step_last_100 198) eps: 0.70 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   721 reward:    42.94 (last_100:  -175.19) step:  64 (step_last_100 196) eps: 0.70 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   722 reward:  -218.94 (last_100:  -175.23) step: 302 (step_last_100 197) eps: 0.70 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   723 reward:  -274.03 (last_100:  -176.54) step: 283 (step_last_100 199) eps: 0.70 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   724 reward:  -199.39 (last_100:  -177.19) step: 185 (step_last_100 199) eps: 0.70 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   725 reward:    12.07 (last_100:  -176.51) step: 121 (step_last_100 200) eps: 0.70 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   726 reward:  -166.45 (last_100:  -177.05) step: 158 (step_last_100 200) eps: 0.70 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   727 reward:    -0.65 (last_100:  -177.12) step: 109 (step_last_100 200) eps: 0.69 success_last_100   14%  Termination reason: Goal reached
+(DDQN) Ep:   728 reward:  -368.98 (last_100:  -179.80) step: 448 (step_last_100 204) eps: 0.69 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   729 reward:  -223.30 (last_100:  -180.51) step: 248 (step_last_100 205) eps: 0.69 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   730 reward:  -185.51 (last_100:  -178.22) step: 183 (step_last_100 202) eps: 0.69 success_last_100   14%  Termination reason: Out of bounds
+(DDQN) Ep:   731 reward:   -57.18 (last_100:  -176.80) step: 164 (step_last_100 202) eps: 0.69 success_last_100   15%  Termination reason: Goal reached
+(DDQN) Ep:   732 reward:  -341.14 (last_100:  -178.62) step: 384 (step_last_100 204) eps: 0.69 success_last_100   15%  Termination reason: Out of bounds
+(DDQN) Ep:   733 reward:  -433.46 (last_100:  -179.28) step: 464 (step_last_100 203) eps: 0.69 success_last_100   15%  Termination reason: Out of bounds
+(DDQN) Ep:   734 reward:  -279.48 (last_100:  -179.55) step: 284 (step_last_100 203) eps: 0.69 success_last_100   15%  Termination reason: Not moving
+(DDQN) Ep:   735 reward:   -58.21 (last_100:  -180.66) step:  36 (step_last_100 203) eps: 0.69 success_last_100   14%  Termination reason: Not moving
+(DDQN) Ep:   736 reward:  -434.30 (last_100:  -183.56) step: 452 (step_last_100 205) eps: 0.69 success_last_100   13%  Termination reason: Out of bounds
+(DDQN) Ep:   737 reward:  -152.56 (last_100:  -184.67) step: 163 (step_last_100 204) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   738 reward:  -265.67 (last_100:  -185.67) step: 233 (step_last_100 205) eps: 0.69 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   739 reward:  -292.98 (last_100:  -187.47) step: 272 (step_last_100 207) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   740 reward:  -132.36 (last_100:  -187.67) step: 126 (step_last_100 207) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   741 reward:  -228.40 (last_100:  -188.87) step: 221 (step_last_100 208) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   742 reward:   -58.42 (last_100:  -186.53) step: 174 (step_last_100 206) eps: 0.69 success_last_100   13%  Termination reason: Goal reached
+(DDQN) Ep:   743 reward:  -429.01 (last_100:  -189.71) step: 500 (step_last_100 210) eps: 0.69 success_last_100   13%  Termination reason: Time out
+(DDQN) Ep:   744 reward:  -466.23 (last_100:  -194.32) step: 500 (step_last_100 214) eps: 0.69 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   745 reward:  -240.97 (last_100:  -195.46) step: 204 (step_last_100 215) eps: 0.69 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   746 reward:  -133.11 (last_100:  -195.03) step: 128 (step_last_100 214) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   747 reward:  -346.51 (last_100:  -196.03) step: 370 (step_last_100 215) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   748 reward:  -481.42 (last_100:  -199.79) step: 500 (step_last_100 219) eps: 0.69 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   749 reward:  -251.52 (last_100:  -201.22) step: 259 (step_last_100 221) eps: 0.69 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   750 reward:  -131.40 (last_100:  -201.55) step:  80 (step_last_100 221) eps: 0.69 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   751 reward:  -257.70 (last_100:  -200.28) step: 289 (step_last_100 220) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   752 reward:   -50.04 (last_100:  -199.82) step:  28 (step_last_100 219) eps: 0.69 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   753 reward:  -304.20 (last_100:  -201.85) step: 360 (step_last_100 222) eps: 0.69 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   754 reward:  -120.53 (last_100:  -199.93) step:  70 (step_last_100 218) eps: 0.69 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   755 reward:  -134.39 (last_100:  -198.96) step:  90 (step_last_100 217) eps: 0.69 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   756 reward:  -462.97 (last_100:  -202.53) step: 500 (step_last_100 222) eps: 0.68 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   757 reward:  -107.02 (last_100:  -199.57) step: 102 (step_last_100 218) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   758 reward:  -266.48 (last_100:  -201.14) step: 248 (step_last_100 219) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   759 reward:  -469.53 (last_100:  -204.76) step: 500 (step_last_100 223) eps: 0.68 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   760 reward:  -417.81 (last_100:  -207.81) step: 477 (step_last_100 227) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   761 reward:  -172.51 (last_100:  -208.32) step: 191 (step_last_100 228) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   762 reward:  -357.88 (last_100:  -210.97) step: 381 (step_last_100 231) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   763 reward:  -197.87 (last_100:  -211.01) step: 217 (step_last_100 231) eps: 0.68 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   764 reward:  -434.48 (last_100:  -214.25) step: 500 (step_last_100 235) eps: 0.68 success_last_100   12%  Termination reason: Time out
+(DDQN) Ep:   765 reward:  -359.92 (last_100:  -215.96) step: 361 (step_last_100 237) eps: 0.68 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   766 reward:  -426.95 (last_100:  -215.10) step: 459 (step_last_100 237) eps: 0.68 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   767 reward:  -229.44 (last_100:  -216.41) step: 191 (step_last_100 238) eps: 0.68 success_last_100   12%  Termination reason: Collision
+(DDQN) Ep:   768 reward:  -177.02 (last_100:  -216.51) step: 208 (step_last_100 238) eps: 0.68 success_last_100   12%  Termination reason: Out of bounds
+(DDQN) Ep:   769 reward:  -344.79 (last_100:  -218.89) step: 355 (step_last_100 240) eps: 0.68 success_last_100   12%  Termination reason: Not moving
+(DDQN) Ep:   770 reward:  -323.63 (last_100:  -222.35) step: 328 (step_last_100 243) eps: 0.68 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:   771 reward:   -97.92 (last_100:  -223.73) step:  51 (step_last_100 243) eps: 0.68 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:   772 reward:  -219.04 (last_100:  -223.41) step: 253 (step_last_100 242) eps: 0.68 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:   773 reward:  -143.97 (last_100:  -222.80) step: 139 (step_last_100 242) eps: 0.68 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   774 reward:    64.58 (last_100:  -220.87) step:  42 (step_last_100 241) eps: 0.68 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:   775 reward:  -173.51 (last_100:  -222.41) step: 204 (step_last_100 241) eps: 0.68 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:   776 reward:  -258.35 (last_100:  -223.28) step: 271 (step_last_100 242) eps: 0.68 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:   777 reward:  -311.38 (last_100:  -226.60) step: 303 (step_last_100 244) eps: 0.68 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   778 reward:  -377.95 (last_100:  -228.31) step: 430 (step_last_100 246) eps: 0.68 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   779 reward:   -58.57 (last_100:  -225.47) step:  36 (step_last_100 243) eps: 0.68 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:   780 reward:  -287.80 (last_100:  -226.44) step: 261 (step_last_100 243) eps: 0.68 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   781 reward:  -280.90 (last_100:  -226.65) step: 238 (step_last_100 243) eps: 0.68 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:   782 reward:  -112.64 (last_100:  -226.76) step:  66 (step_last_100 242) eps: 0.68 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:   783 reward:  -104.26 (last_100:  -223.94) step:  96 (step_last_100 239) eps: 0.68 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:   784 reward:  -269.95 (last_100:  -227.09) step: 324 (step_last_100 241) eps: 0.68 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   785 reward:  -222.28 (last_100:  -228.11) step: 245 (step_last_100 243) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   786 reward:  -146.60 (last_100:  -227.36) step: 149 (step_last_100 242) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   787 reward:  -342.20 (last_100:  -227.21) step: 411 (step_last_100 242) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   788 reward:  -267.37 (last_100:  -227.80) step: 288 (step_last_100 244) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   789 reward:  -189.72 (last_100:  -227.45) step: 212 (step_last_100 244) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   790 reward:  -356.09 (last_100:  -229.39) step: 379 (step_last_100 246) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   791 reward:  -260.70 (last_100:  -228.37) step: 275 (step_last_100 244) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   792 reward:  -192.97 (last_100:  -229.10) step: 216 (step_last_100 246) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   793 reward:  -153.66 (last_100:  -227.76) step: 147 (step_last_100 244) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   794 reward:  -265.17 (last_100:  -228.52) step: 295 (step_last_100 245) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   795 reward:  -185.18 (last_100:  -228.29) step: 214 (step_last_100 246) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   796 reward:  -432.57 (last_100:  -230.39) step: 426 (step_last_100 248) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   797 reward:  -450.85 (last_100:  -233.05) step: 500 (step_last_100 251) eps: 0.67 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   798 reward:  -200.54 (last_100:  -233.83) step: 187 (step_last_100 251) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   799 reward:   -96.62 (last_100:  -230.45) step:  48 (step_last_100 247) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   800 reward:  -401.18 (last_100:  -230.14) step: 405 (step_last_100 246) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   801 reward:  -211.58 (last_100:  -228.31) step: 204 (step_last_100 243) eps: 0.67 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:   802 reward:  -102.72 (last_100:  -227.57) step:  56 (step_last_100 242) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   803 reward:  -125.80 (last_100:  -227.70) step:  81 (step_last_100 242) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   804 reward:  -159.30 (last_100:  -225.22) step: 151 (step_last_100 238) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   805 reward:  -461.21 (last_100:  -228.07) step: 500 (step_last_100 241) eps: 0.67 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   806 reward:  -428.53 (last_100:  -230.22) step: 500 (step_last_100 244) eps: 0.67 success_last_100    7%  Termination reason: Time out
+(DDQN) Ep:   807 reward:  -232.35 (last_100:  -229.68) step: 227 (step_last_100 243) eps: 0.67 success_last_100    7%  Termination reason: Not moving
+(DDQN) Ep:   808 reward:  -136.21 (last_100:  -229.66) step:  90 (step_last_100 243) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   809 reward:  -502.07 (last_100:  -231.90) step: 490 (step_last_100 245) eps: 0.67 success_last_100    7%  Termination reason: Collision
+(DDQN) Ep:   810 reward:  -443.54 (last_100:  -235.68) step: 500 (step_last_100 248) eps: 0.67 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   811 reward:  -223.49 (last_100:  -236.80) step: 230 (step_last_100 250) eps: 0.67 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   812 reward:  -376.43 (last_100:  -239.45) step: 432 (step_last_100 253) eps: 0.67 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   813 reward:  -106.42 (last_100:  -238.52) step: 108 (step_last_100 252) eps: 0.67 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   814 reward:  -146.22 (last_100:  -239.48) step: 141 (step_last_100 253) eps: 0.67 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   815 reward:  -255.21 (last_100:  -239.40) step: 295 (step_last_100 253) eps: 0.66 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:   816 reward:  -448.72 (last_100:  -242.54) step: 500 (step_last_100 257) eps: 0.66 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:   817 reward:  -323.36 (last_100:  -243.12) step: 325 (step_last_100 257) eps: 0.66 success_last_100    6%  Termination reason: Not moving
+(DDQN) Ep:   818 reward:  -115.63 (last_100:  -242.18) step:  63 (step_last_100 256) eps: 0.66 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   819 reward:  -117.55 (last_100:  -242.05) step:  76 (step_last_100 256) eps: 0.66 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   820 reward:  -100.57 (last_100:  -242.24) step:  53 (step_last_100 256) eps: 0.66 success_last_100    6%  Termination reason: Collision
+(DDQN) Ep:   821 reward:  -387.73 (last_100:  -246.55) step: 406 (step_last_100 259) eps: 0.66 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   822 reward:  -182.63 (last_100:  -246.18) step: 181 (step_last_100 258) eps: 0.66 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   823 reward:  -306.83 (last_100:  -246.51) step: 313 (step_last_100 258) eps: 0.66 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   824 reward:  -114.21 (last_100:  -245.66) step: 106 (step_last_100 257) eps: 0.66 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   825 reward:  -419.45 (last_100:  -249.97) step: 456 (step_last_100 261) eps: 0.66 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   826 reward:  -101.08 (last_100:  -249.32) step:  57 (step_last_100 260) eps: 0.66 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   827 reward:  -527.62 (last_100:  -254.59) step: 491 (step_last_100 263) eps: 0.66 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   828 reward:  -377.97 (last_100:  -254.68) step: 388 (step_last_100 263) eps: 0.66 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   829 reward:  -109.65 (last_100:  -253.54) step:  62 (step_last_100 261) eps: 0.66 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   830 reward:  -116.38 (last_100:  -252.85) step: 113 (step_last_100 260) eps: 0.66 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   831 reward:  -419.74 (last_100:  -256.48) step: 462 (step_last_100 263) eps: 0.66 success_last_100    2%  Termination reason: Not moving
+(DDQN) Ep:   832 reward:  -103.55 (last_100:  -254.10) step:  62 (step_last_100 260) eps: 0.66 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   833 reward:  -251.34 (last_100:  -252.28) step: 266 (step_last_100 258) eps: 0.66 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   834 reward:  -125.82 (last_100:  -250.74) step: 116 (step_last_100 256) eps: 0.66 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   835 reward:  -237.81 (last_100:  -252.54) step: 254 (step_last_100 259) eps: 0.66 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   836 reward:  -508.72 (last_100:  -253.29) step: 485 (step_last_100 259) eps: 0.66 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   837 reward:  -132.65 (last_100:  -253.09) step: 124 (step_last_100 258) eps: 0.66 success_last_100    2%  Termination reason: Not moving
+(DDQN) Ep:   838 reward:  -108.94 (last_100:  -251.52) step:  61 (step_last_100 257) eps: 0.66 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   839 reward:  -210.08 (last_100:  -250.69) step: 239 (step_last_100 256) eps: 0.66 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   840 reward:   -98.62 (last_100:  -250.35) step:  54 (step_last_100 256) eps: 0.66 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   841 reward:  -111.99 (last_100:  -249.19) step: 111 (step_last_100 255) eps: 0.66 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   842 reward:  -229.13 (last_100:  -250.90) step: 244 (step_last_100 255) eps: 0.66 success_last_100    1%  Termination reason: Not moving
+(DDQN) Ep:   843 reward:  -405.75 (last_100:  -250.66) step: 500 (step_last_100 255) eps: 0.66 success_last_100    1%  Termination reason: Time out
+(DDQN) Ep:   844 reward:  -324.04 (last_100:  -249.24) step: 354 (step_last_100 254) eps: 0.66 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   845 reward:  -129.21 (last_100:  -248.12) step: 126 (step_last_100 253) eps: 0.66 success_last_100    1%  Termination reason: Not moving
+(DDQN) Ep:   846 reward:  -125.57 (last_100:  -248.05) step:  78 (step_last_100 253) eps: 0.65 success_last_100    1%  Termination reason: Collision
+(DDQN) Ep:   847 reward:  -459.59 (last_100:  -249.18) step: 476 (step_last_100 254) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   848 reward:  -178.00 (last_100:  -246.14) step: 154 (step_last_100 250) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   849 reward:  -168.29 (last_100:  -245.31) step: 170 (step_last_100 249) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   850 reward:  -326.38 (last_100:  -247.26) step: 388 (step_last_100 252) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   851 reward:  -246.21 (last_100:  -247.15) step: 304 (step_last_100 253) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   852 reward:  -134.27 (last_100:  -247.99) step: 130 (step_last_100 254) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   853 reward:  -284.01 (last_100:  -247.79) step: 270 (step_last_100 253) eps: 0.65 success_last_100    1%  Termination reason: Collision
+(DDQN) Ep:   854 reward:  -301.62 (last_100:  -249.60) step: 321 (step_last_100 255) eps: 0.65 success_last_100    1%  Termination reason: Collision
+(DDQN) Ep:   855 reward:  -107.68 (last_100:  -249.33) step:  60 (step_last_100 255) eps: 0.65 success_last_100    1%  Termination reason: Collision
+(DDQN) Ep:   856 reward:  -299.31 (last_100:  -247.69) step: 347 (step_last_100 253) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   857 reward:  -228.39 (last_100:  -248.91) step: 235 (step_last_100 255) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   858 reward:  -106.37 (last_100:  -247.31) step: 287 (step_last_100 255) eps: 0.65 success_last_100    2%  Termination reason: Goal reached
+(DDQN) Ep:   859 reward:  -105.90 (last_100:  -243.67) step:  55 (step_last_100 251) eps: 0.65 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   860 reward:  -119.97 (last_100:  -240.69) step:  72 (step_last_100 247) eps: 0.65 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   861 reward:  -158.51 (last_100:  -240.55) step: 170 (step_last_100 246) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   862 reward:  -373.54 (last_100:  -240.71) step: 467 (step_last_100 247) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   863 reward:  -403.41 (last_100:  -242.76) step: 442 (step_last_100 249) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   864 reward:  -211.26 (last_100:  -240.53) step: 204 (step_last_100 246) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   865 reward:  -179.38 (last_100:  -238.73) step: 204 (step_last_100 245) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   866 reward:  -374.37 (last_100:  -238.20) step: 422 (step_last_100 245) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   867 reward:  -307.51 (last_100:  -238.98) step: 382 (step_last_100 246) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   868 reward:  -136.18 (last_100:  -238.57) step: 148 (step_last_100 246) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   869 reward:  -106.52 (last_100:  -236.19) step:  65 (step_last_100 243) eps: 0.65 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   870 reward:  -134.44 (last_100:  -234.30) step: 131 (step_last_100 241) eps: 0.65 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   871 reward:  -292.26 (last_100:  -236.24) step: 326 (step_last_100 244) eps: 0.65 success_last_100    2%  Termination reason: Not moving
+(DDQN) Ep:   872 reward:  -109.44 (last_100:  -235.15) step:  65 (step_last_100 242) eps: 0.65 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   873 reward:  -429.44 (last_100:  -238.00) step: 500 (step_last_100 245) eps: 0.65 success_last_100    2%  Termination reason: Time out
+(DDQN) Ep:   874 reward:  -112.05 (last_100:  -239.77) step: 119 (step_last_100 246) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   875 reward:  -180.81 (last_100:  -239.84) step: 183 (step_last_100 246) eps: 0.65 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   876 reward:  -176.97 (last_100:  -239.03) step: 200 (step_last_100 245) eps: 0.64 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   877 reward:  -231.54 (last_100:  -238.23) step: 266 (step_last_100 245) eps: 0.64 success_last_100    1%  Termination reason: Out of bounds
+(DDQN) Ep:   878 reward:    64.77 (last_100:  -233.80) step:  38 (step_last_100 241) eps: 0.64 success_last_100    2%  Termination reason: Goal reached
+(DDQN) Ep:   879 reward:   -94.82 (last_100:  -234.16) step:  54 (step_last_100 241) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   880 reward:  -100.59 (last_100:  -232.29) step:  56 (step_last_100 239) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   881 reward:  -101.46 (last_100:  -230.50) step: 107 (step_last_100 238) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   882 reward:  -236.72 (last_100:  -231.74) step: 221 (step_last_100 239) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   883 reward:  -105.11 (last_100:  -231.75) step: 103 (step_last_100 239) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   884 reward:   -96.84 (last_100:  -230.02) step:  55 (step_last_100 237) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   885 reward:  -417.03 (last_100:  -231.96) step: 384 (step_last_100 238) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   886 reward:   -94.65 (last_100:  -231.44) step:  50 (step_last_100 237) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   887 reward:  -100.31 (last_100:  -229.02) step:  55 (step_last_100 234) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   888 reward:  -334.66 (last_100:  -229.70) step: 391 (step_last_100 235) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   889 reward:  -322.91 (last_100:  -231.03) step: 349 (step_last_100 236) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   890 reward:  -262.14 (last_100:  -230.09) step: 280 (step_last_100 235) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   891 reward:  -207.31 (last_100:  -229.56) step: 215 (step_last_100 234) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   892 reward:   -99.58 (last_100:  -228.62) step:  57 (step_last_100 233) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   893 reward:  -123.61 (last_100:  -228.32) step: 109 (step_last_100 232) eps: 0.64 success_last_100    2%  Termination reason: Not moving
+(DDQN) Ep:   894 reward:  -107.37 (last_100:  -226.74) step:  60 (step_last_100 230) eps: 0.64 success_last_100    2%  Termination reason: Collision
+(DDQN) Ep:   895 reward:   -99.87 (last_100:  -225.89) step:  98 (step_last_100 229) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   896 reward:   -97.18 (last_100:  -222.54) step:  99 (step_last_100 226) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   897 reward:  -119.16 (last_100:  -219.22) step: 112 (step_last_100 222) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   898 reward:  -371.08 (last_100:  -220.92) step: 425 (step_last_100 224) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   899 reward:  -114.71 (last_100:  -221.11) step: 116 (step_last_100 225) eps: 0.64 success_last_100    2%  Termination reason: Out of bounds
+(DDQN) Ep:   900 reward:   -23.91 (last_100:  -217.33) step: 164 (step_last_100 222) eps: 0.64 success_last_100    3%  Termination reason: Goal reached
+(DDQN) Ep:   901 reward:  -107.05 (last_100:  -216.29) step: 106 (step_last_100 221) eps: 0.64 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   902 reward:  -238.41 (last_100:  -217.64) step: 246 (step_last_100 223) eps: 0.64 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   903 reward:  -121.87 (last_100:  -217.61) step: 116 (step_last_100 224) eps: 0.64 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   904 reward:  -430.88 (last_100:  -220.32) step: 477 (step_last_100 227) eps: 0.64 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   905 reward:  -449.05 (last_100:  -220.20) step: 500 (step_last_100 227) eps: 0.64 success_last_100    3%  Termination reason: Time out
+(DDQN) Ep:   906 reward:  -315.73 (last_100:  -219.07) step: 336 (step_last_100 225) eps: 0.64 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   907 reward:  -165.95 (last_100:  -218.41) step: 160 (step_last_100 225) eps: 0.64 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   908 reward:   -96.33 (last_100:  -218.01) step:  54 (step_last_100 224) eps: 0.63 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   909 reward:  -131.44 (last_100:  -214.30) step:  83 (step_last_100 220) eps: 0.63 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   910 reward:  -202.64 (last_100:  -211.89) step: 244 (step_last_100 218) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   911 reward:  -382.19 (last_100:  -213.48) step: 407 (step_last_100 219) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   912 reward:  -114.24 (last_100:  -210.86) step:  67 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   913 reward:  -131.22 (last_100:  -211.11) step: 125 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   914 reward:  -259.10 (last_100:  -212.24) step: 275 (step_last_100 217) eps: 0.63 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   915 reward:  -133.07 (last_100:  -211.01) step: 131 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   916 reward:  -405.86 (last_100:  -210.58) step: 500 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Time out
+(DDQN) Ep:   917 reward:  -416.36 (last_100:  -211.51) step: 458 (step_last_100 217) eps: 0.63 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   918 reward:  -113.82 (last_100:  -211.50) step: 104 (step_last_100 217) eps: 0.63 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   919 reward:  -108.62 (last_100:  -211.41) step: 102 (step_last_100 218) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   920 reward:  -103.68 (last_100:  -211.44) step:  61 (step_last_100 218) eps: 0.63 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   921 reward:  -274.28 (last_100:  -210.30) step: 302 (step_last_100 217) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   922 reward:  -120.55 (last_100:  -209.68) step: 122 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   923 reward:  -237.38 (last_100:  -208.99) step: 243 (step_last_100 215) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   924 reward:  -137.96 (last_100:  -209.23) step: 123 (step_last_100 216) eps: 0.63 success_last_100    3%  Termination reason: Not moving
+(DDQN) Ep:   925 reward:  -317.53 (last_100:  -208.21) step: 345 (step_last_100 214) eps: 0.63 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   926 reward:  -103.24 (last_100:  -208.23) step: 221 (step_last_100 216) eps: 0.63 success_last_100    4%  Termination reason: Goal reached
+(DDQN) Ep:   927 reward:  -125.53 (last_100:  -204.21) step:  74 (step_last_100 212) eps: 0.63 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   928 reward:  -106.76 (last_100:  -201.50) step:  63 (step_last_100 209) eps: 0.63 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   929 reward:  -375.47 (last_100:  -204.15) step: 399 (step_last_100 212) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   930 reward:  -115.91 (last_100:  -204.15) step: 109 (step_last_100 212) eps: 0.63 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   931 reward:  -177.55 (last_100:  -201.73) step: 169 (step_last_100 209) eps: 0.63 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   932 reward:  -235.27 (last_100:  -203.04) step: 252 (step_last_100 211) eps: 0.63 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   933 reward:  -110.22 (last_100:  -201.63) step:  63 (step_last_100 209) eps: 0.63 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   934 reward:  -340.25 (last_100:  -203.78) step: 387 (step_last_100 212) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   935 reward:  -352.86 (last_100:  -204.93) step: 380 (step_last_100 213) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   936 reward:  -171.63 (last_100:  -201.56) step: 175 (step_last_100 210) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   937 reward:  -270.19 (last_100:  -202.93) step: 328 (step_last_100 212) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   938 reward:  -333.51 (last_100:  -205.18) step: 362 (step_last_100 215) eps: 0.63 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   939 reward:  -390.31 (last_100:  -206.98) step: 500 (step_last_100 217) eps: 0.62 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   940 reward:    70.97 (last_100:  -205.28) step:  36 (step_last_100 217) eps: 0.62 success_last_100    5%  Termination reason: Goal reached
+(DDQN) Ep:   941 reward:  -120.06 (last_100:  -205.37) step: 106 (step_last_100 217) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   942 reward:   -68.47 (last_100:  -203.76) step:  42 (step_last_100 215) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   943 reward:   -93.76 (last_100:  -200.64) step:  47 (step_last_100 211) eps: 0.62 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   944 reward:  -275.50 (last_100:  -200.15) step: 302 (step_last_100 210) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   945 reward:  -223.39 (last_100:  -201.10) step: 273 (step_last_100 212) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   946 reward:  -109.22 (last_100:  -200.93) step: 109 (step_last_100 212) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   947 reward:  -120.06 (last_100:  -197.54) step:  67 (step_last_100 208) eps: 0.62 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   948 reward:  -252.10 (last_100:  -198.28) step: 258 (step_last_100 209) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   949 reward:  -319.48 (last_100:  -199.79) step: 374 (step_last_100 211) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   950 reward:  -102.29 (last_100:  -197.55) step:  52 (step_last_100 208) eps: 0.62 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   951 reward:  -325.63 (last_100:  -198.34) step: 301 (step_last_100 208) eps: 0.62 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   952 reward:  -378.45 (last_100:  -200.78) step: 421 (step_last_100 210) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   953 reward:  -302.53 (last_100:  -200.97) step: 351 (step_last_100 211) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   954 reward:  -201.40 (last_100:  -199.97) step: 252 (step_last_100 211) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   955 reward:  -241.44 (last_100:  -201.31) step: 208 (step_last_100 212) eps: 0.62 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   956 reward:  -373.17 (last_100:  -202.04) step: 406 (step_last_100 213) eps: 0.62 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   957 reward:  -125.60 (last_100:  -201.02) step: 113 (step_last_100 211) eps: 0.62 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:   958 reward:  -297.73 (last_100:  -202.93) step: 385 (step_last_100 212) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   959 reward:  -113.63 (last_100:  -203.01) step: 111 (step_last_100 213) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   960 reward:  -113.50 (last_100:  -202.94) step: 108 (step_last_100 213) eps: 0.62 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   961 reward:  -373.19 (last_100:  -205.09) step: 415 (step_last_100 216) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   962 reward:  -145.75 (last_100:  -202.81) step: 155 (step_last_100 213) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   963 reward:  -206.71 (last_100:  -200.84) step: 202 (step_last_100 210) eps: 0.62 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   964 reward:  -442.16 (last_100:  -203.15) step: 500 (step_last_100 213) eps: 0.62 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   965 reward:  -442.17 (last_100:  -205.78) step: 500 (step_last_100 216) eps: 0.62 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   966 reward:  -139.13 (last_100:  -203.43) step: 135 (step_last_100 213) eps: 0.62 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   967 reward:  -254.97 (last_100:  -202.90) step: 281 (step_last_100 212) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   968 reward:  -447.29 (last_100:  -206.01) step: 500 (step_last_100 216) eps: 0.62 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   969 reward:  -146.18 (last_100:  -206.41) step: 157 (step_last_100 217) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   970 reward:  -501.24 (last_100:  -210.08) step: 500 (step_last_100 220) eps: 0.62 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   971 reward:  -343.10 (last_100:  -210.59) step: 373 (step_last_100 221) eps: 0.62 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   972 reward:  -272.67 (last_100:  -212.22) step: 328 (step_last_100 224) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   973 reward:  -400.99 (last_100:  -211.94) step: 415 (step_last_100 223) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   974 reward:  -444.35 (last_100:  -215.26) step: 500 (step_last_100 226) eps: 0.61 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:   975 reward:  -245.38 (last_100:  -215.90) step: 290 (step_last_100 228) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   976 reward:  -137.19 (last_100:  -215.51) step: 128 (step_last_100 227) eps: 0.61 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   977 reward:  -331.59 (last_100:  -216.51) step: 359 (step_last_100 228) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   978 reward:  -107.71 (last_100:  -218.23) step:  58 (step_last_100 228) eps: 0.61 success_last_100    3%  Termination reason: Collision
+(DDQN) Ep:   979 reward:  -281.89 (last_100:  -220.10) step: 336 (step_last_100 231) eps: 0.61 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   980 reward:  -172.03 (last_100:  -220.82) step: 191 (step_last_100 232) eps: 0.61 success_last_100    3%  Termination reason: Out of bounds
+(DDQN) Ep:   981 reward:  -127.89 (last_100:  -221.08) step: 252 (step_last_100 234) eps: 0.61 success_last_100    4%  Termination reason: Goal reached
+(DDQN) Ep:   982 reward:  -249.03 (last_100:  -221.20) step: 284 (step_last_100 234) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   983 reward:  -338.94 (last_100:  -223.54) step: 366 (step_last_100 237) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   984 reward:  -100.95 (last_100:  -223.58) step: 115 (step_last_100 237) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   985 reward:   -97.24 (last_100:  -220.39) step:  50 (step_last_100 234) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   986 reward:   -96.65 (last_100:  -220.41) step:  53 (step_last_100 234) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   987 reward:  -241.32 (last_100:  -221.82) step: 281 (step_last_100 236) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   988 reward:  -249.44 (last_100:  -220.96) step: 312 (step_last_100 236) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   989 reward:  -102.84 (last_100:  -218.76) step:  57 (step_last_100 233) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   990 reward:  -147.71 (last_100:  -217.62) step: 139 (step_last_100 231) eps: 0.61 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   991 reward:  -157.47 (last_100:  -217.12) step: 179 (step_last_100 231) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   992 reward:  -103.17 (last_100:  -217.16) step:  57 (step_last_100 231) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:   993 reward:  -102.47 (last_100:  -216.94) step:  91 (step_last_100 231) eps: 0.61 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:   994 reward:  -205.59 (last_100:  -217.93) step: 205 (step_last_100 232) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   995 reward:   -95.83 (last_100:  -217.89) step: 101 (step_last_100 232) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:   996 reward:    57.08 (last_100:  -216.34) step:  42 (step_last_100 232) eps: 0.61 success_last_100    5%  Termination reason: Goal reached
+(DDQN) Ep:   997 reward:  -346.05 (last_100:  -218.61) step: 388 (step_last_100 234) eps: 0.61 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:   998 reward:  -101.44 (last_100:  -215.92) step:  55 (step_last_100 231) eps: 0.61 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:   999 reward:  -102.95 (last_100:  -215.80) step:  54 (step_last_100 230) eps: 0.61 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:  1000 reward:  -471.39 (last_100:  -220.27) step: 500 (step_last_100 233) eps: 0.61 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:  1001 reward:  -102.97 (last_100:  -220.23) step:  53 (step_last_100 233) eps: 0.61 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:  1002 reward:  -398.83 (last_100:  -221.84) step: 454 (step_last_100 235) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:  1003 reward:  -270.22 (last_100:  -223.32) step: 321 (step_last_100 237) eps: 0.61 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:  1004 reward:  -268.68 (last_100:  -221.70) step: 258 (step_last_100 235) eps: 0.60 success_last_100    4%  Termination reason: Collision
+(DDQN) Ep:  1005 reward:  -138.09 (last_100:  -218.59) step: 133 (step_last_100 231) eps: 0.60 success_last_100    4%  Termination reason: Not moving
+(DDQN) Ep:  1006 reward:  -305.68 (last_100:  -218.49) step: 364 (step_last_100 231) eps: 0.60 success_last_100    4%  Termination reason: Out of bounds
+(DDQN) Ep:  1007 reward:  -449.11 (last_100:  -221.32) step: 500 (step_last_100 235) eps: 0.60 success_last_100    4%  Termination reason: Time out
+(DDQN) Ep:  1008 reward:  -181.29 (last_100:  -222.17) step: 336 (step_last_100 238) eps: 0.60 success_last_100    5%  Termination reason: Goal reached
+(DDQN) Ep:  1009 reward:  -236.66 (last_100:  -223.22) step: 267 (step_last_100 240) eps: 0.60 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:  1010 reward:  -322.61 (last_100:  -224.42) step: 365 (step_last_100 241) eps: 0.60 success_last_100    5%  Termination reason: Out of bounds
+(DDQN) Ep:  1011 reward:  -105.31 (last_100:  -221.65) step:  52 (step_last_100 237) eps: 0.60 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:  1012 reward:  -198.82 (last_100:  -222.50) step: 175 (step_last_100 238) eps: 0.60 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:  1013 reward:  -428.09 (last_100:  -225.47) step: 500 (step_last_100 242) eps: 0.60 success_last_100    5%  Termination reason: Time out
+(DDQN) Ep:  1014 reward:  -391.25 (last_100:  -226.79) step: 420 (step_last_100 243) eps: 0.60 success_last_100    5%  Termination reason: Not moving
+(DDQN) Ep:  1015 reward:  -100.10 (last_100:  -226.46) step:  54 (step_last_100 243) eps: 0.60 success_last_100    5%  Termination reason: Collision
+(DDQN) Ep:  1016 reward:    63.44 (last_100:  -221.77) step:  44 (step_last_100 238) eps: 0.60 success_last_100    6%  Termination reason: Goal reached
+(DDQN) Ep:  1017 reward:  -288.97 (last_100:  -220.49) step: 293 (step_last_100 236) eps: 0.60 success_last_100    6%  Termination reason: Out of bounds
+(DDQN) Ep:  1018 reward:  -402.19 (last_100:  -223.38) step: 500 (step_last_100 240) eps: 0.60 success_last_100    6%  Termination reason: Time out
+(DDQN) Ep:  1019 reward:  -255.83 (last_100:  -224.85) step: 450 (step_last_100 244) eps: 0.60 success_last_100    7%  Termination reason: Goal reached
+(DDQN) Ep:  1020 reward:    37.54 (last_100:  -223.44) step:  69 (step_last_100 244) eps: 0.60 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:  1021 reward:   -99.80 (last_100:  -221.69) step:  49 (step_last_100 241) eps: 0.60 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1022 reward:  -177.86 (last_100:  -222.26) step: 183 (step_last_100 242) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1023 reward:  -160.04 (last_100:  -221.49) step: 165 (step_last_100 241) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1024 reward:  -114.67 (last_100:  -221.26) step: 113 (step_last_100 241) eps: 0.60 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1025 reward:  -240.16 (last_100:  -220.48) step: 294 (step_last_100 241) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1026 reward:  -361.76 (last_100:  -223.07) step: 416 (step_last_100 243) eps: 0.60 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:  1027 reward:  -308.39 (last_100:  -224.90) step: 350 (step_last_100 245) eps: 0.60 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:  1028 reward:  -428.41 (last_100:  -228.11) step: 473 (step_last_100 250) eps: 0.60 success_last_100    7%  Termination reason: Out of bounds
+(DDQN) Ep:  1029 reward:    33.05 (last_100:  -224.03) step:  97 (step_last_100 246) eps: 0.60 success_last_100    8%  Termination reason: Goal reached
+(DDQN) Ep:  1030 reward:   -98.46 (last_100:  -223.85) step:  52 (step_last_100 246) eps: 0.60 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1031 reward:  -285.45 (last_100:  -224.93) step: 332 (step_last_100 248) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1032 reward:  -348.72 (last_100:  -226.07) step: 408 (step_last_100 249) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1033 reward:  -108.65 (last_100:  -226.05) step:  63 (step_last_100 249) eps: 0.60 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1034 reward:  -118.29 (last_100:  -223.83) step:  66 (step_last_100 246) eps: 0.60 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1035 reward:  -430.62 (last_100:  -224.61) step: 500 (step_last_100 247) eps: 0.60 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:  1036 reward:  -236.75 (last_100:  -225.26) step: 250 (step_last_100 248) eps: 0.60 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1037 reward:  -105.33 (last_100:  -223.61) step:  56 (step_last_100 245) eps: 0.60 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1038 reward:  -397.42 (last_100:  -224.25) step: 434 (step_last_100 246) eps: 0.59 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1039 reward:   -86.52 (last_100:  -221.21) step: 257 (step_last_100 243) eps: 0.59 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:  1040 reward:  -428.69 (last_100:  -226.21) step: 500 (step_last_100 248) eps: 0.59 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:  1041 reward:  -164.00 (last_100:  -226.65) step: 121 (step_last_100 248) eps: 0.59 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1042 reward:  -177.05 (last_100:  -227.74) step: 165 (step_last_100 249) eps: 0.59 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1043 reward:  -409.64 (last_100:  -230.89) step: 434 (step_last_100 253) eps: 0.59 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1044 reward:  -268.15 (last_100:  -230.82) step: 273 (step_last_100 253) eps: 0.59 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1045 reward:  -158.60 (last_100:  -230.17) step: 119 (step_last_100 251) eps: 0.59 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1046 reward:  -103.00 (last_100:  -230.11) step:  58 (step_last_100 251) eps: 0.59 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1047 reward:    72.29 (last_100:  -228.19) step:  31 (step_last_100 251) eps: 0.59 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:  1048 reward:    83.48 (last_100:  -224.83) step:  25 (step_last_100 248) eps: 0.59 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:  1049 reward:  -351.75 (last_100:  -225.15) step: 316 (step_last_100 248) eps: 0.59 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1050 reward:  -461.03 (last_100:  -228.74) step: 500 (step_last_100 252) eps: 0.59 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1051 reward:  -234.26 (last_100:  -227.83) step: 245 (step_last_100 252) eps: 0.59 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1052 reward:  -368.65 (last_100:  -227.73) step: 418 (step_last_100 252) eps: 0.59 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1053 reward:  -447.98 (last_100:  -229.18) step: 500 (step_last_100 253) eps: 0.59 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1054 reward:  -248.76 (last_100:  -229.66) step: 269 (step_last_100 253) eps: 0.59 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1055 reward:  -185.90 (last_100:  -229.10) step: 179 (step_last_100 253) eps: 0.59 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1056 reward:  -155.09 (last_100:  -226.92) step: 180 (step_last_100 251) eps: 0.59 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1057 reward:  -455.36 (last_100:  -230.22) step: 500 (step_last_100 255) eps: 0.59 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1058 reward:  -293.56 (last_100:  -230.18) step: 313 (step_last_100 254) eps: 0.59 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1059 reward:  -102.08 (last_100:  -230.06) step:  51 (step_last_100 253) eps: 0.59 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1060 reward:  -451.95 (last_100:  -233.45) step: 500 (step_last_100 257) eps: 0.59 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1061 reward:  -102.88 (last_100:  -230.74) step:  57 (step_last_100 254) eps: 0.59 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1062 reward:  -176.80 (last_100:  -231.05) step: 186 (step_last_100 254) eps: 0.59 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1063 reward:  -168.78 (last_100:  -230.67) step: 303 (step_last_100 255) eps: 0.59 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:  1064 reward:  -148.91 (last_100:  -227.74) step: 144 (step_last_100 251) eps: 0.59 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1065 reward:  -207.06 (last_100:  -225.39) step: 222 (step_last_100 249) eps: 0.59 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1066 reward:  -309.06 (last_100:  -227.09) step: 292 (step_last_100 250) eps: 0.59 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1067 reward:  -295.56 (last_100:  -227.50) step: 299 (step_last_100 250) eps: 0.59 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1068 reward:  -145.39 (last_100:  -224.48) step: 155 (step_last_100 247) eps: 0.59 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1069 reward:  -251.27 (last_100:  -225.53) step: 245 (step_last_100 248) eps: 0.59 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1070 reward:  -186.83 (last_100:  -222.38) step: 208 (step_last_100 245) eps: 0.59 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1071 reward:  -116.67 (last_100:  -220.12) step: 110 (step_last_100 242) eps: 0.59 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1072 reward:   -98.87 (last_100:  -218.38) step:  50 (step_last_100 239) eps: 0.58 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1073 reward:  -111.23 (last_100:  -215.48) step:  61 (step_last_100 236) eps: 0.58 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1074 reward:  -366.35 (last_100:  -214.70) step: 404 (step_last_100 235) eps: 0.58 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1075 reward:  -104.23 (last_100:  -213.29) step:  57 (step_last_100 233) eps: 0.58 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1076 reward:  -104.93 (last_100:  -212.97) step: 105 (step_last_100 232) eps: 0.58 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1077 reward:   -97.37 (last_100:  -210.63) step:  59 (step_last_100 229) eps: 0.58 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1078 reward:  -104.66 (last_100:  -210.60) step:  84 (step_last_100 230) eps: 0.58 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1079 reward:  -104.32 (last_100:  -208.82) step:  91 (step_last_100 227) eps: 0.58 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1080 reward:   -95.87 (last_100:  -208.06) step:  45 (step_last_100 226) eps: 0.58 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1081 reward:  -220.61 (last_100:  -208.99) step: 218 (step_last_100 225) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1082 reward:  -279.18 (last_100:  -209.29) step: 322 (step_last_100 226) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1083 reward:  -122.66 (last_100:  -207.13) step: 150 (step_last_100 224) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1084 reward:  -104.65 (last_100:  -207.16) step:  57 (step_last_100 223) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1085 reward:  -312.45 (last_100:  -209.32) step: 302 (step_last_100 226) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1086 reward:  -104.08 (last_100:  -209.39) step:  57 (step_last_100 226) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1087 reward:  -114.64 (last_100:  -208.12) step: 108 (step_last_100 224) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1088 reward:  -105.15 (last_100:  -206.68) step:  58 (step_last_100 221) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1089 reward:  -207.02 (last_100:  -207.72) step: 230 (step_last_100 223) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1090 reward:    75.55 (last_100:  -205.49) step:  27 (step_last_100 222) eps: 0.58 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:  1091 reward:  -289.88 (last_100:  -206.81) step: 367 (step_last_100 224) eps: 0.58 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1092 reward:  -203.60 (last_100:  -207.82) step: 236 (step_last_100 226) eps: 0.58 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1093 reward:  -384.72 (last_100:  -210.64) step: 500 (step_last_100 230) eps: 0.58 success_last_100   11%  Termination reason: Time out
+(DDQN) Ep:  1094 reward:   -99.37 (last_100:  -209.58) step:  99 (step_last_100 229) eps: 0.58 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1095 reward:  -253.21 (last_100:  -211.15) step: 276 (step_last_100 230) eps: 0.58 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1096 reward:  -109.69 (last_100:  -212.82) step:  57 (step_last_100 231) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1097 reward:   -94.96 (last_100:  -210.31) step:  51 (step_last_100 227) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1098 reward:  -318.02 (last_100:  -212.47) step: 394 (step_last_100 231) eps: 0.58 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1099 reward:  -122.08 (last_100:  -212.67) step:  74 (step_last_100 231) eps: 0.58 success_last_100   10%  Termination reason: Collision
+(DDQN) Ep:  1100 reward:  -163.95 (last_100:  -209.59) step: 166 (step_last_100 227) eps: 0.58 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1101 reward:  -419.30 (last_100:  -212.75) step: 500 (step_last_100 232) eps: 0.58 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1102 reward:  -164.67 (last_100:  -210.41) step: 189 (step_last_100 229) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1103 reward:  -248.25 (last_100:  -210.19) step: 249 (step_last_100 228) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1104 reward:  -282.28 (last_100:  -210.33) step: 357 (step_last_100 229) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1105 reward:  -392.79 (last_100:  -212.88) step: 427 (step_last_100 232) eps: 0.58 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1106 reward:  -172.87 (last_100:  -211.55) step: 165 (step_last_100 230) eps: 0.57 success_last_100   10%  Termination reason: Not moving
+(DDQN) Ep:  1107 reward:  -433.39 (last_100:  -211.39) step: 500 (step_last_100 230) eps: 0.57 success_last_100   10%  Termination reason: Time out
+(DDQN) Ep:  1108 reward:  -173.55 (last_100:  -211.31) step: 148 (step_last_100 229) eps: 0.57 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:  1109 reward:    68.87 (last_100:  -208.26) step:  47 (step_last_100 226) eps: 0.57 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:  1110 reward:  -111.19 (last_100:  -206.14) step: 109 (step_last_100 224) eps: 0.57 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1111 reward:    22.45 (last_100:  -204.87) step:  83 (step_last_100 224) eps: 0.57 success_last_100   11%  Termination reason: Goal reached
+(DDQN) Ep:  1112 reward:  -106.76 (last_100:  -203.95) step: 100 (step_last_100 223) eps: 0.57 success_last_100   11%  Termination reason: Not moving
+(DDQN) Ep:  1113 reward:  -103.46 (last_100:  -200.70) step:  58 (step_last_100 219) eps: 0.57 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1114 reward:  -104.83 (last_100:  -197.84) step:  57 (step_last_100 215) eps: 0.57 success_last_100   11%  Termination reason: Collision
+(DDQN) Ep:  1115 reward:  -343.54 (last_100:  -200.27) step: 382 (step_last_100 219) eps: 0.57 success_last_100   11%  Termination reason: Out of bounds
+(DDQN) Ep:  1116 reward:  -275.60 (last_100:  -203.66) step: 341 (step_last_100 222) eps: 0.57 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1117 reward:   -76.41 (last_100:  -201.53) step:  88 (step_last_100 220) eps: 0.57 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1118 reward:  -101.20 (last_100:  -198.52) step:  99 (step_last_100 215) eps: 0.57 success_last_100   10%  Termination reason: Out of bounds
+(DDQN) Ep:  1119 reward:  -238.38 (last_100:  -198.35) step: 309 (step_last_100 214) eps: 0.57 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:  1120 reward:  -103.97 (last_100:  -199.77) step:  51 (step_last_100 214) eps: 0.57 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1121 reward:  -306.27 (last_100:  -201.83) step: 356 (step_last_100 217) eps: 0.57 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1122 reward:  -188.06 (last_100:  -201.93) step: 182 (step_last_100 217) eps: 0.57 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1123 reward:  -210.69 (last_100:  -202.44) step: 204 (step_last_100 217) eps: 0.57 success_last_100    8%  Termination reason: Not moving
+(DDQN) Ep:  1124 reward:   -95.58 (last_100:  -202.25) step:  92 (step_last_100 217) eps: 0.57 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1125 reward:  -116.77 (last_100:  -201.01) step:  67 (step_last_100 215) eps: 0.57 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1126 reward:   -90.12 (last_100:  -198.30) step:  47 (step_last_100 211) eps: 0.57 success_last_100    8%  Termination reason: Collision
+(DDQN) Ep:  1127 reward:    81.61 (last_100:  -194.40) step:  27 (step_last_100 208) eps: 0.57 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:  1128 reward:  -412.82 (last_100:  -194.24) step: 500 (step_last_100 208) eps: 0.57 success_last_100    9%  Termination reason: Time out
+(DDQN) Ep:  1129 reward:  -427.64 (last_100:  -198.85) step: 500 (step_last_100 212) eps: 0.57 success_last_100    8%  Termination reason: Time out
+(DDQN) Ep:  1130 reward:  -287.49 (last_100:  -200.74) step: 352 (step_last_100 215) eps: 0.57 success_last_100    8%  Termination reason: Out of bounds
+(DDQN) Ep:  1131 reward:    70.82 (last_100:  -197.18) step:  35 (step_last_100 212) eps: 0.57 success_last_100    9%  Termination reason: Goal reached
+(DDQN) Ep:  1132 reward:  -450.46 (last_100:  -198.19) step: 488 (step_last_100 213) eps: 0.57 success_last_100    9%  Termination reason: Out of bounds
+(DDQN) Ep:  1133 reward:  -110.82 (last_100:  -198.21) step:  68 (step_last_100 213) eps: 0.57 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:  1134 reward:  -297.01 (last_100:  -200.00) step: 320 (step_last_100 216) eps: 0.57 success_last_100    9%  Termination reason: Collision
+(DDQN) Ep:  1135 reward:  -197.79 (last_100:  -197.67) step: 203 (step_last_100 213) eps: 0.57 success_last_100    9%  Termination reason: Not moving
+(DDQN) Ep:  1136 reward:    70.03 (last_100:  -194.61) step:  39 (step_last_100 211) eps: 0.57 success_last_100   10%  Termination reason: Goal reached
+(DDQN) Ep:  1137 reward:  -101.24 (last_100:  -194.56) step:  50 (step_last_100 211) eps: 0.57 success_last_100   10%  Termination reason: Collision

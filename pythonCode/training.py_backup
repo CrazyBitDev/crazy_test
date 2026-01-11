@@ -1,0 +1,93 @@
+from env.robotic_navigation import RoboticNavigation
+from alg.DDQN import DDQN
+import time, sys, argparse
+import tensorflow as tf
+import config
+physical_devices = tf.config.list_physical_devices('GPU') 
+for device in physical_devices:
+    tf.config.experimental.set_memory_growth(device, True)
+import traceback
+
+from stable_baselines3 import PPO
+from stable_baselines3.common.callbacks import EvalCallback, StopTrainingOnRewardThreshold
+
+import wandb
+from wandb.integration.sb3 import WandbCallback # Importa il callback di WandB
+
+def train(env, args):
+
+	run = wandb.init(
+		project=args.wandb_project_name,
+		entity=args.wandb_entity,
+		config=vars(args),
+		name=f"PPO_static_run_{int(time.time())}",
+		sync_tensorboard=True,
+		monitor_gym=True,
+		save_code=True,
+	)
+
+	wandb_callback = WandbCallback(
+		model_save_path=f"models/{run.id}",
+		verbose=2,
+	)
+
+	eval_callback = EvalCallback(env, best_model_save_path=f'./logs_best_model/',
+                                     log_path=f'./logs_best_model/', eval_freq=5000,
+                                     deterministic=True, render=False)
+
+	# Execution of the training loop
+	try: 
+
+		policy_kwargs = dict(net_arch=[256, 256])
+		
+		model = PPO(
+			"MlpPolicy", env,
+			gamma=args.gamma,
+            batch_size=args.batch_size,
+            n_epochs=args.n_epochs,
+            learning_rate=args.lr,
+			policy_kwargs=policy_kwargs,
+			ent_coef=0.01,
+			tensorboard_log=f"runs/{run.id}"
+		)
+		model.learn(
+			total_timesteps=500_000,
+			callback=[wandb_callback, eval_callback],
+			progress_bar=True
+		)
+		model.save("BoatSimulator_PPO_static")
+		run.finish()
+
+		# algo = DDQN(env, args)
+		# algo.loop(args)
+	
+	# Listener for errors and print of the eventual error message
+	except Exception as e: 
+		print(e)
+		print(traceback.format_exc())
+
+	# In any case, close the Unity3D environment
+	finally:
+		env.close()
+
+def generate_environment(editor_build, env_type, render=False):
+
+	worker_id = int(round(time.time() % 1, 4)*10000)
+	return RoboticNavigation( editor_build=editor_build, worker_id=worker_id, env_type=env_type, render=render )
+
+
+# Call the main function
+if __name__ == "__main__":
+
+	# Default parameters
+	args = config.parse_args()
+	# seed = None implies random seed
+	editor_build = True
+	env_type = "training"
+	render = False
+
+	print( "Mobile Robotics Lecture on ML-agents and DDQN! \n")
+	env = generate_environment(editor_build, env_type, render=render)
+	train(env, args)
+
+
